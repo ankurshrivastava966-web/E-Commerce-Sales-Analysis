@@ -1,0 +1,1011 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,Quantity,Unit_Price,Unit_Cost,Discount,Region,State,Payment_Mode
+ORD0001,2025-04-25,Priya,Mobile,Electronics,1,20000,14000,0.1,North,Uttar Pradesh,UPI
+ORD0002,2025-01-16,Amit,Bag,Accessories,1,1500,800,0.15,Central,Madhya Pradesh,Credit Card
+ORD0003,2025-04-12,Karan,Keyboard,Electronics,5,1200,600,0.0,East,West Bengal,Cash
+ORD0004,2025-03-23,Vikas,Keyboard,Electronics,4,1200,600,0.1,Central,Madhya Pradesh,Debit Card
+ORD0005,2025-02-22,Amit,Chair,Furniture,2,5000,3000,0.05,West,Gujarat,Cash
+ORD0006,2025-05-16,Rahul,Mobile,Electronics,3,20000,14000,0.1,East,Bihar,
+ORD0007,2025-10-10,Rohit,Bag,Accessories,1,1500,800,0.15,West,Maharashtra,Net Banking
+ORD0008,2025-01-24,Anjali,Table,Furniture,5,8000,5000,0.05,West,Maharashtra,Debit Card
+ORD0009,2025-05-23,Pooja,Mobile,Electronics,2,20000,14000,0.0,South,Karnataka,Debit Card
+ORD0010,2025-12-10,Rohit,Headphones,Electronics,3,2000,1000,0.1,North,Uttar Pradesh,UPI
+ORD0011,2025-08-25,Vikas,Watch,Accessories,2,3000,1800,0.05,North,Delhi,Debit Card
+ORD0012,2025-04-28,Rahul,Bag,Accessories,2,1500,800,0.1,Central,Madhya Pradesh,Debit Card
+ORD0013,2025-10-18,Neha,Notebook,Stationery,3,100,40,0.0,North,Uttar Pradesh,Credit Card
+ORD0014,2025-05-16,Priya,Pen,Stationery,4,20,8,0.15,North,Delhi,Credit Card
+ORD0015,2025-08-08,Sneha,Bag,Accessories,5,1500,800,0.1,East,Bihar,Cash
+ORD0016,2025-09-10,,Table,Furniture,2,8000,5000,0.05,East,West Bengal,UPI
+ORD0017,2025-11-02,Amit,Mobile,Electronics,2,20000,14000,0.05,South,Karnataka,Cash
+ORD0018,2025-05-09,Karan,Notebook,Stationery,5,100,40,0.15,East,West Bengal,UPI
+ORD0019,2025-02-27,Rohit,Mobile,Electronics,5,20000,14000,0.1,West,Gujarat,Cash
+ORD0020,2025-09-14,Priya,Headphones,Electronics,4,2000,1000,0.0,North,Rajasthan,Net Banking
+ORD0021,2025-07-11,Priya,Mobile,Electronics,3,20000,14000,0.05,North,Delhi,Net Banking
+ORD0022,2025-01-10,Amit,Bag,Accessories,1,1500,800,0.1,South,Tamil Nadu,Debit Card
+ORD0023,2025-10-18,Amit,Chair,Furniture,2,5000,3000,0.0,North,Uttar Pradesh,UPI
+ORD0024,2025-12-04,Pooja,Pen,Stationery,1,20,8,0.05,North,Delhi,Net Banking
+ORD0025,2025-10-04,Anjali,Headphones,Electronics,3,2000,1000,0.15,North,Uttar Pradesh,Debit Card
+ORD0026,2025-08-20,Amit,Notebook,Stationery,3,100,40,0.15,East,West Bengal,Credit Card
+ORD0027,2025-10-29,Karan,Keyboard,Electronics,1,1200,600,0.1,Central,Madhya Pradesh,Credit Card
+ORD0028,2025-12-29,Rahul,Watch,Accessories,2,3000,1800,0.0,West,Maharashtra,Credit Card
+ORD0029,2025-09-21,Anjali,Mobile,Electronics,1,20000,14000,0.1,West,Maharashtra,Debit Card
+ORD0030,2025-10-23,Pooja,Pen,Stationery,2,20,8,0.05,East,Bihar,Credit Card
+ORD0031,2025-02-19,Vikas,Pen,Stationery,4,20,8,0.05,West,Maharashtra,Debit Card
+ORD0032,2025-12-11,Amit,Notebook,Stationery,4,100,40,0.15,Central,Madhya Pradesh,UPI
+ORD0033,2025-04-09,Anjali,Notebook,Stationery,3,100,40,0.0,North,Uttar Pradesh,Net Banking
+ORD0034,2025-05-23,Pooja,Pen,Stationery,2,20,8,0.15,North,Delhi,Credit Card
+ORD0035,2025-11-30,Karan,Mobile,Electronics,4,20000,14000,0.0,Central,Madhya Pradesh,UPI
+ORD0036,2025-09-06,Pooja,Mobile,Electronics,2,20000,14000,0.05,South,Karnataka,Credit Card
+ORD0037,2025-01-02,Vikas,Notebook,Stationery,1,100,40,0.05,South,Karnataka,Debit Card
+ORD0038,2025-12-05,Pooja,Pen,Stationery,3,20,8,0.15,East,West Bengal,Credit Card
+ORD0039,2025-10-24,Karan,Keyboard,Electronics,3,1200,600,0.05,Central,Madhya Pradesh,UPI
+ORD0040,2025-09-02,Karan,Table,Furniture,1,8000,5000,0.0,East,Bihar,Net Banking
+ORD0041,2025-02-05,Sneha,Headphones,Electronics,1,2000,1000,0.0,North,Delhi,UPI
+ORD0042,2025-05-07,Sneha,Keyboard,Electronics,4,1200,600,0.0,East,Bihar,Net Banking
+ORD0043,2025-12-03,Sneha,Laptop,Electronics,5,55000,42000,0.0,South,Karnataka,Net Banking
+ORD0044,2025-12-09,Neha,Bag,Accessories,3,1500,800,0.1,North,Uttar Pradesh,Credit Card
+ORD0045,2025-08-23,Neha,Chair,Furniture,4,5000,3000,0.05,North,Rajasthan,UPI
+ORD0046,2025-10-03,Anjali,Laptop,Electronics,4,55000,42000,0.0,West,Maharashtra,Net Banking
+ORD0047,2025-05-06,Neha,Chair,Furniture,2,5000,3000,0.1,West,Maharashtra,Debit Card
+ORD0048,2025-12-01,Karan,Headphones,Electronics,4,2000,1000,0.1,East,Bihar,UPI
+ORD0049,2025-05-16,Amit,Bag,Accessories,3,1500,800,0.0,North,Delhi,UPI
+ORD0050,2025-11-06,Anjali,Bag,Accessories,2,1500,800,0.1,North,Rajasthan,Debit Card
+ORD0051,2025-01-27,Amit,Keyboard,Electronics,3,1200,600,0.15,North,Rajasthan,Cash
+ORD0052,2025-03-08,Rohit,Chair,Furniture,1,5000,3000,0.0,West,Gujarat,Credit Card
+ORD0053,2025-01-05,Amit,Pen,Stationery,5,20,8,0.15,East,West Bengal,UPI
+ORD0054,2025-10-26,Karan,Headphones,Electronics,5,2000,1000,0.0,West,Gujarat,Credit Card
+ORD0055,2025-07-06,Rahul,Notebook,Stationery,2,100,40,0.0,North,Rajasthan,Debit Card
+ORD0056,2025-10-14,Vikas,Keyboard,Electronics,2,1200,600,0.0,West,Gujarat,Net Banking
+ORD0057,2025-07-31,Rahul,Headphones,Electronics,2,2000,1000,0.05,North,Delhi,Credit Card
+ORD0058,2025-03-23,Amit,Table,Furniture,4,8000,5000,0.05,North,Rajasthan,Cash
+ORD0059,2025-08-24,Neha,Laptop,Electronics,4,55000,42000,0.05,North,Uttar Pradesh,Debit Card
+ORD0060,2025-07-24,Neha,Keyboard,Electronics,2,1200,600,0.0,North,Uttar Pradesh,Debit Card
+ORD0061,2025-07-24,Karan,Mobile,Electronics,3,20000,14000,0.1,East,West Bengal,Debit Card
+ORD0062,2025-10-25,Rohit,Laptop,Electronics,1,55000,42000,0.1,North,Delhi,UPI
+ORD0063,2025-06-10,Vikas,Mobile,Electronics,5,20000,14000,0.15,West,Gujarat,Net Banking
+ORD0064,2025-04-08,Rohit,Bag,Accessories,1,1500,800,0.15,East,Bihar,UPI
+ORD0065,2025-08-09,Amit,Notebook,Stationery,1,100,40,0.05,West,Gujarat,Debit Card
+ORD0066,2025-09-17,Rohit,Watch,Accessories,3,3000,1800,0.0,North,Rajasthan,Cash
+ORD0067,2025-03-07,Anjali,Table,Furniture,4,8000,5000,0.1,East,West Bengal,Cash
+ORD0068,2025-10-08,Rahul,Notebook,Stationery,2,100,40,0.1,South,Karnataka,Debit Card
+ORD0069,2025-11-07,Neha,Chair,Furniture,2,5000,3000,0.15,East,Bihar,Cash
+ORD0070,2025-08-31,Priya,Pen,Stationery,4,20,8,0.05,East,West Bengal,UPI
+ORD0071,2025-05-01,Rohit,Chair,Furniture,5,5000,3000,0.1,West,Maharashtra,Credit Card
+ORD0072,2025-05-06,Pooja,Keyboard,Electronics,2,1200,600,0.0,Central,Madhya Pradesh,Net Banking
+ORD0073,2025-04-10,Vikas,Mobile,Electronics,4,20000,14000,0.15,East,Bihar,Cash
+ORD0074,2025-02-24,Vikas,Notebook,Stationery,2,100,40,0.05,Central,Madhya Pradesh,Credit Card
+ORD0075,2025-10-13,Anjali,Headphones,Electronics,5,2000,1000,0.15,Central,Madhya Pradesh,UPI
+ORD0076,2025-10-14,Sneha,Pen,Stationery,2,20,8,0.15,East,West Bengal,Debit Card
+ORD0077,2025-08-17,Priya,Pen,Stationery,5,20,8,0.15,East,West Bengal,Cash
+ORD0078,2025-09-24,Pooja,Pen,Stationery,3,20,8,0.05,North,Rajasthan,Credit Card
+ORD0079,2025-05-01,Rohit,Chair,Furniture,4,5000,3000,0.0,North,Rajasthan,Debit Card
+ORD0080,2025-03-19,Anjali,Table,Furniture,5,8000,5000,0.0,North,Delhi,Cash
+ORD0081,2025-07-28,Neha,Headphones,Electronics,2,2000,1000,0.0,South,Karnataka,Net Banking
+ORD0082,2025-08-04,Vikas,Pen,Stationery,4,20,8,0.0,North,Uttar Pradesh,Net Banking
+ORD0083,2025-01-04,Neha,Laptop,Electronics,5,55000,42000,0.15,South,Tamil Nadu,Debit Card
+ORD0084,2025-04-23,Rohit,Notebook,Stationery,4,100,40,0.05,South,Tamil Nadu,Cash
+ORD0085,2025-12-09,Vikas,Pen,Stationery,1,20,8,0.15,West,Gujarat,Credit Card
+ORD0086,2025-10-31,Sneha,Pen,Stationery,2,20,8,0.0,South,Karnataka,UPI
+ORD0087,2025-04-04,Rahul,Mobile,Electronics,4,20000,14000,0.05,South,Tamil Nadu,Debit Card
+ORD0088,2025-06-17,Neha,Notebook,Stationery,3,100,40,0.05,South,Tamil Nadu,Cash
+ORD0089,2025-08-29,Rahul,Chair,Furniture,4,5000,3000,0.1,West,Maharashtra,Net Banking
+ORD0090,2025-11-30,Rahul,Laptop,Electronics,3,55000,42000,0.05,West,Maharashtra,UPI
+ORD0091,2025-03-20,Anjali,Keyboard,Electronics,2,1200,600,0.0,East,Bihar,Credit Card
+ORD0092,2025-12-25,Rohit,Pen,Stationery,1,20,8,0.05,South,Tamil Nadu,Debit Card
+ORD0093,2025-06-09,Amit,Headphones,Electronics,5,2000,1000,0.0,North,Delhi,Net Banking
+ORD0094,2025-04-12,Amit,Laptop,Electronics,3,55000,42000,0.15,South,Karnataka,Net Banking
+ORD0095,2025-03-03,Sneha,Keyboard,Electronics,1,1200,600,0.1,East,Bihar,UPI
+ORD0096,2025-02-05,Karan,Table,Furniture,5,8000,5000,0.15,West,Gujarat,Debit Card
+ORD0097,2025-08-10,Neha,Laptop,Electronics,4,55000,42000,0.15,West,Maharashtra,Cash
+ORD0098,2025-11-30,Rohit,Headphones,Electronics,4,2000,1000,0.05,East,West Bengal,Net Banking
+ORD0099,2025-10-31,Rohit,Bag,Accessories,4,1500,800,0.15,South,Karnataka,Debit Card
+ORD0100,2025-05-05,Pooja,Keyboard,Electronics,1,1200,600,0.1,South,Tamil Nadu,Net Banking
+ORD0101,2025-09-11,Neha,Watch,Accessories,4,3000,1800,0.1,Central,Madhya Pradesh,Credit Card
+ORD0102,2025-06-24,Rohit,Pen,Stationery,2,20,8,0.1,North,Rajasthan,Net Banking
+ORD0103,2025-04-08,Amit,Chair,Furniture,5,5000,3000,0.0,East,West Bengal,Credit Card
+ORD0104,2025-11-27,Pooja,Notebook,Stationery,4,100,40,0.05,South,Tamil Nadu,Cash
+ORD0105,2025-07-27,Anjali,Laptop,Electronics,1,55000,42000,0.1,North,Uttar Pradesh,Debit Card
+ORD0106,2025-09-29,Neha,Watch,Accessories,3,3000,1800,0.15,East,West Bengal,Cash
+ORD0107,2025-05-19,Rohit,Bag,Accessories,3,1500,800,0.1,South,Tamil Nadu,Debit Card
+ORD0108,2025-03-03,Karan,Keyboard,Electronics,1,1200,600,0.05,West,Gujarat,Credit Card
+ORD0109,2025-10-29,Karan,Keyboard,Electronics,2,1200,600,0.15,North,Rajasthan,Net Banking
+ORD0110,2025-04-27,Neha,Chair,Furniture,1,5000,3000,0.05,North,Rajasthan,Credit Card
+ORD0111,2025-01-24,Rahul,Chair,Furniture,1,5000,3000,0.05,North,Rajasthan,Net Banking
+ORD0112,2025-01-07,Sneha,Chair,Furniture,2,5000,3000,0.15,West,Maharashtra,Debit Card
+ORD0113,2025-04-05,Rahul,Pen,Stationery,4,20,8,0.15,West,Gujarat,Debit Card
+ORD0114,2025-09-09,Amit,Pen,Stationery,1,20,8,0.0,South,Karnataka,Net Banking
+ORD0115,2025-06-05,Amit,Laptop,Electronics,2,55000,42000,0.05,East,Bihar,Credit Card
+ORD0116,2025-11-02,Sneha,Mobile,Electronics,5,20000,14000,0.15,East,Bihar,Credit Card
+ORD0117,2025-06-02,Sneha,Bag,Accessories,4,1500,800,0.15,South,Tamil Nadu,Cash
+ORD0118,2025-02-20,Anjali,Chair,Furniture,5,5000,3000,0.0,East,Bihar,Credit Card
+ORD0119,2025-03-30,Karan,Chair,Furniture,1,5000,3000,0.05,North,Uttar Pradesh,UPI
+ORD0120,2025-12-19,Sneha,Headphones,Electronics,1,2000,1000,0.15,South,Tamil Nadu,Cash
+ORD0121,2025-12-28,Rohit,Chair,Furniture,1,5000,3000,0.05,North,Rajasthan,Cash
+ORD0122,2025-12-05,Anjali,Mobile,Electronics,2,20000,14000,0.1,East,Bihar,Cash
+ORD0123,2025-05-17,Priya,Mobile,Electronics,5,20000,14000,0.05,North,Delhi,UPI
+ORD0124,2025-10-19,Rohit,Laptop,Electronics,2,55000,42000,0.1,East,Bihar,Cash
+ORD0125,2025-05-20,Karan,Mobile,Electronics,4,20000,14000,0.1,South,Karnataka,Net Banking
+ORD0126,2025-01-21,Vikas,Pen,Stationery,4,20,8,0.0,East,Bihar,Debit Card
+ORD0127,2025-04-28,Sneha,Watch,Accessories,3,3000,1800,0.0,West,Maharashtra,Net Banking
+ORD0128,2025-08-29,Karan,Laptop,Electronics,3,55000,42000,0.0,North,Delhi,Cash
+ORD0129,2025-02-16,Pooja,Chair,Furniture,2,5000,3000,0.15,South,Tamil Nadu,Debit Card
+ORD0130,2025-03-24,Neha,Notebook,Stationery,3,100,40,0.1,West,Maharashtra,Cash
+ORD0131,2025-01-19,Pooja,Pen,Stationery,3,20,8,0.15,East,West Bengal,UPI
+ORD0132,2025-07-26,Karan,Table,Furniture,3,8000,5000,0.1,West,Maharashtra,UPI
+ORD0133,2025-04-07,Karan,Bag,Accessories,4,1500,800,0.15,Central,Madhya Pradesh,Debit Card
+ORD0134,2025-04-15,Rohit,Watch,Accessories,4,3000,1800,0.15,Central,Madhya Pradesh,Net Banking
+ORD0135,2025-03-04,Rahul,Headphones,Electronics,3,2000,1000,0.15,South,Tamil Nadu,Net Banking
+ORD0136,2025-01-08,Karan,Keyboard,Electronics,2,1200,600,0.1,East,West Bengal,Cash
+ORD0137,2025-03-02,Priya,Mobile,Electronics,2,20000,14000,0.0,South,Tamil Nadu,Cash
+ORD0138,2025-09-05,Pooja,Chair,Furniture,5,5000,3000,0.1,South,Karnataka,Credit Card
+ORD0139,2025-04-08,Sneha,Pen,Stationery,5,20,8,0.05,South,Karnataka,Net Banking
+ORD0140,2025-06-24,Karan,Headphones,Electronics,1,2000,1000,0.1,South,Karnataka,Debit Card
+ORD0141,2025-10-24,Pooja,Laptop,Electronics,3,55000,42000,0.1,East,Bihar,Credit Card
+ORD0142,2025-06-20,Karan,Pen,Stationery,5,20,8,0.15,West,Gujarat,Net Banking
+ORD0143,2025-12-24,Anjali,Notebook,Stationery,4,100,40,0.1,North,Uttar Pradesh,Net Banking
+ORD0144,2025-06-12,Pooja,Notebook,Stationery,2,100,40,0.15,Central,Madhya Pradesh,Cash
+ORD0145,2025-03-06,Karan,Notebook,Stationery,2,100,40,0.15,Central,Madhya Pradesh,Net Banking
+ORD0146,2025-09-27,Pooja,Table,Furniture,1,8000,5000,0.15,West,Maharashtra,UPI
+ORD0147,2025-08-29,Rohit,Headphones,Electronics,4,2000,1000,0.05,West,Maharashtra,Debit Card
+ORD0148,2025-12-12,Karan,Watch,Accessories,4,3000,1800,0.0,West,Gujarat,Cash
+ORD0149,2025-02-05,Anjali,Table,Furniture,4,8000,5000,0.0,East,Bihar,Debit Card
+ORD0150,2025-11-21,Amit,Keyboard,Electronics,1,1200,600,0.15,West,Maharashtra,Cash
+ORD0151,2025-06-16,Rahul,Headphones,Electronics,3,2000,1000,0.0,Central,Madhya Pradesh,Debit Card
+ORD0152,2025-05-06,Karan,Table,Furniture,3,8000,5000,0.15,North,Delhi,Cash
+ORD0153,2025-02-10,Sneha,Watch,Accessories,2,3000,1800,0.05,North,Delhi,Cash
+ORD0154,2025-03-15,Anjali,Watch,Accessories,2,3000,1800,0.15,East,Bihar,Cash
+ORD0155,2025-08-27,Rohit,Chair,Furniture,4,5000,3000,0.1,Central,Madhya Pradesh,Net Banking
+ORD0156,2025-10-28,Rohit,Headphones,Electronics,1,2000,1000,0.15,West,Gujarat,Cash
+ORD0157,2025-07-16,Pooja,Chair,Furniture,4,5000,3000,0.1,North,Uttar Pradesh,UPI
+ORD0158,2025-06-01,Rohit,Keyboard,Electronics,4,1200,600,0.1,East,Bihar,UPI
+ORD0159,2025-12-18,Rahul,Notebook,Stationery,3,100,40,0.0,East,Bihar,Net Banking
+ORD0160,2025-06-30,Anjali,Pen,Stationery,3,20,8,0.05,East,Bihar,Credit Card
+ORD0161,2025-11-18,Rahul,Watch,Accessories,3,3000,1800,0.05,West,Maharashtra,Debit Card
+ORD0162,2025-02-16,Rohit,Pen,Stationery,1,20,8,0.1,North,Delhi,Debit Card
+ORD0163,2025-10-04,Neha,Notebook,Stationery,2,100,40,0.05,North,Delhi,Net Banking
+ORD0164,2025-09-04,Rohit,Bag,Accessories,3,1500,800,0.05,North,Rajasthan,Debit Card
+ORD0165,2025-04-26,Vikas,Mobile,Electronics,4,20000,14000,0.0,North,Delhi,Net Banking
+ORD0166,2025-05-16,Karan,Table,Furniture,1,8000,5000,0.15,Central,Madhya Pradesh,UPI
+ORD0167,2025-07-15,Neha,Pen,Stationery,3,20,8,0.1,East,Bihar,UPI
+ORD0168,2025-10-15,Neha,Keyboard,Electronics,4,1200,600,0.0,East,Bihar,Net Banking
+ORD0169,2025-11-29,Vikas,Keyboard,Electronics,1,1200,600,0.15,North,Rajasthan,UPI
+ORD0170,2025-09-10,Amit,Headphones,Electronics,1,2000,1000,0.0,North,Rajasthan,UPI
+ORD0171,2025-08-21,Neha,Keyboard,Electronics,5,1200,600,0.05,South,Karnataka,Net Banking
+ORD0172,2025-12-02,Amit,Notebook,Stationery,5,100,40,0.05,South,Karnataka,Cash
+ORD0173,2025-12-20,Neha,Watch,Accessories,4,3000,1800,0.1,Central,Madhya Pradesh,Credit Card
+ORD0174,2025-02-20,Neha,Pen,Stationery,4,20,8,0.05,West,Gujarat,Net Banking
+ORD0175,2025-04-08,Amit,Table,Furniture,1,8000,5000,0.15,North,Rajasthan,Cash
+ORD0176,2025-06-20,Anjali,Mobile,Electronics,2,20000,14000,0.0,Central,Madhya Pradesh,Credit Card
+ORD0177,2025-04-17,Sneha,Watch,Accessories,2,3000,1800,0.0,East,West Bengal,Credit Card
+ORD0178,2025-01-02,Rohit,Keyboard,Electronics,3,1200,600,0.05,East,Bihar,Credit Card
+ORD0179,2025-02-26,Rahul,Headphones,Electronics,5,2000,1000,0.1,North,Delhi,Credit Card
+ORD0180,2025-06-15,Rahul,Laptop,Electronics,3,55000,42000,0.05,East,Bihar,Credit Card
+ORD0181,2025-09-27,Amit,Chair,Furniture,1,5000,3000,0.05,South,Karnataka,UPI
+ORD0182,2025-10-31,Amit,Pen,Stationery,4,20,8,0.1,East,West Bengal,Cash
+ORD0183,2025-06-04,Pooja,Bag,Accessories,2,1500,800,0.0,East,West Bengal,UPI
+ORD0184,2025-12-18,Amit,Laptop,Electronics,4,55000,42000,0.15,South,Karnataka,Cash
+ORD0185,2025-11-08,Priya,Pen,Stationery,1,20,8,0.0,West,Gujarat,UPI
+ORD0186,2025-11-02,Karan,Headphones,Electronics,3,2000,1000,0.1,South,Karnataka,Debit Card
+ORD0187,2025-12-26,Amit,Pen,Stationery,5,20,8,0.15,West,Maharashtra,Net Banking
+ORD0188,2025-07-31,Neha,Keyboard,Electronics,4,1200,600,0.15,North,Uttar Pradesh,Cash
+ORD0189,2025-08-07,Neha,Notebook,Stationery,4,100,40,0.0,West,Gujarat,Debit Card
+ORD0190,2025-02-16,Amit,Table,Furniture,2,8000,5000,0.15,West,Maharashtra,UPI
+ORD0191,2025-10-12,Rahul,Notebook,Stationery,1,100,40,0.1,North,Delhi,Net Banking
+ORD0192,2025-07-30,Neha,Bag,Accessories,5,1500,800,0.1,West,Maharashtra,Cash
+ORD0193,2025-02-23,Sneha,Laptop,Electronics,3,55000,42000,0.1,West,Gujarat,Net Banking
+ORD0194,2025-02-25,Neha,Keyboard,Electronics,2,1200,600,0.15,North,Uttar Pradesh,Net Banking
+ORD0195,2025-04-26,Vikas,Table,Furniture,1,8000,5000,0.1,East,Bihar,Net Banking
+ORD0196,2025-12-03,Rohit,Watch,Accessories,5,3000,1800,0.0,East,Bihar,UPI
+ORD0197,2025-06-29,Rahul,Headphones,Electronics,3,2000,1000,0.1,West,Gujarat,Credit Card
+ORD0198,2025-03-14,Rahul,Headphones,Electronics,5,2000,1000,0.15,West,Maharashtra,UPI
+ORD0199,2025-08-21,Neha,Bag,Accessories,2,1500,800,0.15,South,Karnataka,Credit Card
+ORD0200,2025-11-02,Amit,Table,Furniture,3,8000,5000,0.1,East,Bihar,UPI
+ORD0201,2025-05-20,Pooja,Headphones,Electronics,2,2000,1000,0.0,West,Maharashtra,Cash
+ORD0202,2025-05-20,Anjali,Pen,Stationery,5,20,8,0.15,South,Karnataka,Net Banking
+ORD0203,2025-05-26,Sneha,Mobile,Electronics,3,20000,14000,0.15,West,Maharashtra,Cash
+ORD0204,2025-07-22,Sneha,Bag,Accessories,3,1500,800,0.0,North,Uttar Pradesh,UPI
+ORD0205,2025-03-12,Rohit,Laptop,Electronics,2,55000,42000,0.1,North,Uttar Pradesh,Debit Card
+ORD0206,2025-08-09,Priya,Table,Furniture,1,8000,5000,0.0,South,Tamil Nadu,Credit Card
+ORD0207,2025-10-14,Neha,Notebook,Stationery,5,100,40,0.05,East,West Bengal,UPI
+ORD0208,2025-08-24,Amit,Notebook,Stationery,1,100,40,0.15,Central,Madhya Pradesh,Debit Card
+ORD0209,2025-05-29,Amit,Watch,Accessories,4,3000,1800,0.15,South,Karnataka,Cash
+ORD0210,2025-08-24,Neha,Laptop,Electronics,3,55000,42000,0.05,East,Bihar,UPI
+ORD0211,2025-10-29,Vikas,Notebook,Stationery,1,100,40,0.05,South,Karnataka,Net Banking
+ORD0212,2025-04-24,Neha,Mobile,Electronics,4,20000,14000,0.1,West,Gujarat,Credit Card
+ORD0213,2025-09-19,Anjali,Mobile,Electronics,5,20000,14000,0.0,East,West Bengal,Debit Card
+ORD0214,2025-03-16,Rohit,Table,Furniture,2,8000,5000,0.05,West,Maharashtra,Credit Card
+ORD0215,2025-04-01,Pooja,Headphones,Electronics,5,2000,1000,0.05,West,Maharashtra,Cash
+ORD0216,2025-11-26,Sneha,Watch,Accessories,5,3000,1800,0.15,East,Bihar,Debit Card
+ORD0217,2025-08-29,Pooja,Table,Furniture,2,8000,5000,0.15,West,Maharashtra,Debit Card
+ORD0218,2025-09-17,Amit,Chair,Furniture,5,5000,3000,0.0,West,Gujarat,Debit Card
+ORD0219,2025-07-08,Rohit,Pen,Stationery,4,20,8,0.0,Central,Madhya Pradesh,UPI
+ORD0220,2025-10-25,Karan,Mobile,Electronics,5,20000,14000,0.15,South,Tamil Nadu,UPI
+ORD0221,2025-11-06,Pooja,Pen,Stationery,5,20,8,0.05,West,Gujarat,Net Banking
+ORD0222,2025-06-25,Amit,Headphones,Electronics,1,2000,1000,0.15,West,Maharashtra,Net Banking
+ORD0223,2025-08-13,Karan,Headphones,Electronics,1,2000,1000,0.05,South,Tamil Nadu,Net Banking
+ORD0224,2025-05-25,Vikas,Watch,Accessories,2,3000,1800,0.1,West,Gujarat,Cash
+ORD0225,2025-02-03,Neha,Table,Furniture,5,8000,5000,0.0,West,Gujarat,UPI
+ORD0226,2025-12-03,Sneha,Bag,Accessories,4,1500,800,0.1,North,Rajasthan,Credit Card
+ORD0227,2025-06-08,Vikas,Table,Furniture,1,8000,5000,0.05,West,Gujarat,Credit Card
+ORD0228,2025-07-12,Neha,Watch,Accessories,1,3000,1800,0.1,East,West Bengal,Credit Card
+ORD0229,2025-07-05,Rahul,Bag,Accessories,1,1500,800,0.15,East,West Bengal,Debit Card
+ORD0230,2025-09-06,Anjali,Chair,Furniture,2,5000,3000,0.05,West,Gujarat,Credit Card
+ORD0231,2025-02-21,Karan,Headphones,Electronics,2,2000,1000,0.0,North,Rajasthan,Net Banking
+ORD0232,2025-03-09,Sneha,Bag,Accessories,1,1500,800,0.1,East,Bihar,Cash
+ORD0233,2025-03-26,Pooja,Headphones,Electronics,2,2000,1000,0.05,East,Bihar,UPI
+ORD0234,2025-11-09,Rohit,Notebook,Stationery,3,100,40,0.05,South,Tamil Nadu,Cash
+ORD0235,2025-08-29,Anjali,Keyboard,Electronics,5,1200,600,0.05,North,Rajasthan,Debit Card
+ORD0236,2025-07-15,Karan,Watch,Accessories,4,3000,1800,0.15,North,Rajasthan,Net Banking
+ORD0237,2025-03-12,Rohit,Notebook,Stationery,2,100,40,0.05,East,Bihar,UPI
+ORD0238,2025-03-05,Rohit,Pen,Stationery,3,20,8,0.0,East,West Bengal,UPI
+ORD0239,2025-03-17,Vikas,Headphones,Electronics,3,2000,1000,0.15,East,West Bengal,UPI
+ORD0240,2025-08-01,Rahul,Keyboard,Electronics,4,1200,600,0.1,Central,Madhya Pradesh,Cash
+ORD0241,2025-02-11,Neha,Bag,Accessories,3,1500,800,0.05,South,Karnataka,Credit Card
+ORD0242,2025-03-16,Priya,Laptop,Electronics,3,55000,42000,0.0,West,Gujarat,UPI
+ORD0243,2025-08-18,Sneha,Chair,Furniture,4,5000,3000,0.05,South,Tamil Nadu,UPI
+ORD0244,2025-03-18,Karan,Mobile,Electronics,1,20000,14000,0.1,North,Uttar Pradesh,Net Banking
+ORD0245,2025-05-02,Rohit,Bag,Accessories,4,1500,800,0.0,North,Rajasthan,UPI
+ORD0246,2025-08-23,Amit,Laptop,Electronics,2,55000,42000,0.15,East,Bihar,UPI
+ORD0247,2025-10-22,Anjali,Pen,Stationery,5,20,8,0.0,East,West Bengal,Credit Card
+ORD0248,2025-06-30,Anjali,Chair,Furniture,4,5000,3000,0.0,East,Bihar,Net Banking
+ORD0249,2025-07-04,Amit,Notebook,Stationery,2,100,40,0.0,East,West Bengal,Net Banking
+ORD0250,2025-08-29,Rahul,Bag,Accessories,5,1500,800,0.0,South,Karnataka,Cash
+ORD0251,2025-02-04,Neha,Table,Furniture,3,8000,5000,0.0,West,Gujarat,Credit Card
+ORD0252,2025-01-23,Neha,Mobile,Electronics,5,20000,14000,0.1,North,Delhi,Net Banking
+ORD0253,2025-11-20,Priya,Table,Furniture,2,8000,5000,0.15,South,Tamil Nadu,Credit Card
+ORD0254,2025-04-14,Rahul,Mobile,Electronics,4,20000,14000,0.0,North,Rajasthan,Credit Card
+ORD0255,2025-07-23,Karan,Laptop,Electronics,3,55000,42000,0.1,East,West Bengal,Cash
+ORD0256,2025-07-02,Rahul,Chair,Furniture,1,5000,3000,0.05,North,Rajasthan,Debit Card
+ORD0257,2025-07-24,Pooja,Chair,Furniture,1,5000,3000,0.1,South,Karnataka,Cash
+ORD0258,2025-07-08,Karan,Table,Furniture,2,8000,5000,0.15,South,Tamil Nadu,Debit Card
+ORD0259,2025-11-05,Priya,Mobile,Electronics,4,20000,14000,0.0,South,Karnataka,Net Banking
+ORD0260,2025-06-17,Rohit,Chair,Furniture,3,5000,3000,0.0,West,Maharashtra,Debit Card
+ORD0261,2025-12-20,Pooja,Pen,Stationery,5,20,8,0.15,North,Delhi,Debit Card
+ORD0262,2025-08-11,Rohit,Pen,Stationery,1,20,8,0.1,East,Bihar,UPI
+ORD0263,2025-12-14,Priya,Mobile,Electronics,4,20000,14000,0.1,East,West Bengal,UPI
+ORD0264,2025-03-06,Amit,Headphones,Electronics,5,2000,1000,0.15,Central,Madhya Pradesh,Credit Card
+ORD0265,2025-01-17,Sneha,Table,Furniture,3,8000,5000,0.15,East,Bihar,Credit Card
+ORD0266,2025-02-09,Sneha,Pen,Stationery,3,20,8,0.1,South,Tamil Nadu,Credit Card
+ORD0267,2025-11-29,Rohit,Bag,Accessories,3,1500,800,0.15,West,Gujarat,Credit Card
+ORD0268,2025-09-23,Vikas,Mobile,Electronics,1,20000,14000,0.05,South,Tamil Nadu,Net Banking
+ORD0269,2025-04-20,Sneha,Mobile,Electronics,3,20000,14000,0.1,South,Tamil Nadu,Debit Card
+ORD0270,2025-02-07,Pooja,Pen,Stationery,2,20,8,0.0,North,Delhi,Credit Card
+ORD0271,2025-12-30,Amit,Pen,Stationery,1,20,8,0.1,West,Gujarat,Net Banking
+ORD0272,2025-12-31,Priya,Bag,Accessories,3,1500,800,0.1,North,Delhi,Debit Card
+ORD0273,2025-03-13,Anjali,Bag,Accessories,2,1500,800,0.0,North,Uttar Pradesh,Cash
+ORD0274,2025-10-10,Priya,Laptop,Electronics,3,55000,42000,0.1,South,Tamil Nadu,Net Banking
+ORD0275,2025-09-03,Karan,Mobile,Electronics,1,20000,14000,0.1,South,Karnataka,Cash
+ORD0276,2025-06-12,Amit,Notebook,Stationery,5,100,40,0.0,North,Delhi,Cash
+ORD0277,2025-10-10,Sneha,Pen,Stationery,5,20,8,0.1,North,Delhi,Credit Card
+ORD0278,2025-09-23,Priya,Headphones,Electronics,4,2000,1000,0.0,West,Maharashtra,Debit Card
+ORD0279,2025-06-27,Karan,Headphones,Electronics,2,2000,1000,0.1,North,Uttar Pradesh,Debit Card
+ORD0280,2025-05-21,Priya,Mobile,Electronics,3,20000,14000,0.05,East,West Bengal,Debit Card
+ORD0281,2025-11-25,Priya,Watch,Accessories,5,3000,1800,0.0,East,West Bengal,Net Banking
+ORD0282,2025-11-06,Neha,Watch,Accessories,2,3000,1800,0.05,East,Bihar,Net Banking
+ORD0283,2025-11-25,Sneha,Laptop,Electronics,1,55000,42000,0.0,Central,Madhya Pradesh,Debit Card
+ORD0284,2025-11-24,Rahul,Keyboard,Electronics,5,1200,600,0.15,East,Bihar,Cash
+ORD0285,2025-05-06,Vikas,Bag,Accessories,3,1500,800,0.1,South,Tamil Nadu,Debit Card
+ORD0286,2025-08-14,Vikas,Pen,Stationery,1,20,8,0.0,North,Delhi,Cash
+ORD0287,2025-03-15,Neha,Pen,Stationery,2,20,8,0.1,East,Bihar,Debit Card
+ORD0288,2025-09-21,Karan,Table,Furniture,4,8000,5000,0.05,West,Gujarat,UPI
+ORD0289,2025-05-17,Pooja,Table,Furniture,2,8000,5000,0.15,West,Maharashtra,Credit Card
+ORD0290,2025-07-16,Sneha,Headphones,Electronics,1,2000,1000,0.0,North,Rajasthan,Cash
+ORD0291,2025-06-10,Anjali,Keyboard,Electronics,2,1200,600,0.1,East,Bihar,Credit Card
+ORD0292,2025-06-07,Pooja,Pen,Stationery,5,20,8,0.15,South,Tamil Nadu,UPI
+ORD0293,2025-04-21,Sneha,Mobile,Electronics,4,20000,14000,0.15,North,Uttar Pradesh,Debit Card
+ORD0294,2025-11-02,Pooja,Laptop,Electronics,1,55000,42000,0.1,South,Tamil Nadu,Debit Card
+ORD0295,2025-03-10,Rohit,Bag,Accessories,1,1500,800,0.0,South,Karnataka,Debit Card
+ORD0296,2025-01-27,Sneha,Notebook,Stationery,3,100,40,0.0,South,Karnataka,Net Banking
+ORD0297,2025-07-17,Karan,Keyboard,Electronics,3,1200,600,0.1,West,Maharashtra,Cash
+ORD0298,2025-02-19,Vikas,Bag,Accessories,3,1500,800,0.0,North,Delhi,Debit Card
+ORD0299,2025-04-12,Sneha,Table,Furniture,5,8000,5000,0.1,North,Delhi,Net Banking
+ORD0300,2025-01-20,Priya,Notebook,Stationery,5,100,40,0.0,Central,Madhya Pradesh,Debit Card
+ORD0301,2025-11-07,Karan,Pen,Stationery,5,20,8,0.15,North,Delhi,Credit Card
+ORD0302,2025-07-21,Sneha,Table,Furniture,5,8000,5000,0.1,North,Delhi,Debit Card
+ORD0303,2025-06-03,Pooja,Watch,Accessories,3,3000,1800,0.15,East,Bihar,UPI
+ORD0304,2025-10-26,Rohit,Table,Furniture,3,8000,5000,0.0,South,Karnataka,UPI
+ORD0305,2025-10-23,Anjali,Watch,Accessories,4,3000,1800,0.1,East,Bihar,UPI
+ORD0306,2025-11-19,Sneha,Watch,Accessories,4,3000,1800,0.05,East,West Bengal,Cash
+ORD0307,2025-12-25,Amit,Headphones,Electronics,2,2000,1000,0.0,East,Bihar,Credit Card
+ORD0308,2025-03-19,Vikas,Laptop,Electronics,4,55000,42000,0.1,South,Karnataka,Credit Card
+ORD0309,2025-12-28,Priya,Notebook,Stationery,5,100,40,0.15,Central,Madhya Pradesh,Net Banking
+ORD0310,2025-09-27,Vikas,Keyboard,Electronics,5,1200,600,0.1,South,Tamil Nadu,Debit Card
+ORD0311,2025-07-01,Rohit,Headphones,Electronics,4,2000,1000,0.1,East,West Bengal,Net Banking
+ORD0312,2025-10-13,Rohit,Pen,Stationery,2,20,8,0.05,North,Rajasthan,Credit Card
+ORD0313,2025-06-12,Pooja,Chair,Furniture,3,5000,3000,0.05,South,Tamil Nadu,Debit Card
+ORD0314,2025-10-21,Karan,Bag,Accessories,3,1500,800,0.1,West,Maharashtra,Cash
+ORD0315,2025-01-22,Rohit,Notebook,Stationery,3,100,40,0.05,North,Rajasthan,UPI
+ORD0316,2025-04-20,Anjali,Table,Furniture,4,8000,5000,0.1,South,Tamil Nadu,Net Banking
+ORD0317,2025-02-25,Sneha,Chair,Furniture,5,5000,3000,0.1,North,Delhi,Net Banking
+ORD0318,2025-04-26,Anjali,Keyboard,Electronics,2,1200,600,0.0,East,West Bengal,UPI
+ORD0319,2025-02-21,Priya,Mobile,Electronics,4,20000,14000,0.1,South,Tamil Nadu,UPI
+ORD0320,2025-09-02,Anjali,Bag,Accessories,2,1500,800,0.15,South,Tamil Nadu,Debit Card
+ORD0321,2025-11-30,Sneha,Table,Furniture,3,8000,5000,0.0,West,Maharashtra,Credit Card
+ORD0322,2025-04-01,Rahul,Bag,Accessories,1,1500,800,0.05,South,Karnataka,Cash
+ORD0323,2025-01-05,Rohit,Pen,Stationery,2,20,8,0.1,Central,Madhya Pradesh,Net Banking
+ORD0324,2025-08-21,Karan,Watch,Accessories,1,3000,1800,0.1,North,Rajasthan,Net Banking
+ORD0325,2025-04-09,Amit,Pen,Stationery,2,20,8,0.15,North,Rajasthan,Debit Card
+ORD0326,2025-01-08,Neha,Headphones,Electronics,4,2000,1000,0.1,North,Delhi,Debit Card
+ORD0327,2025-11-24,Vikas,Watch,Accessories,2,3000,1800,0.05,East,Bihar,Cash
+ORD0328,2025-12-09,Amit,Bag,Accessories,3,1500,800,0.0,South,Karnataka,Credit Card
+ORD0329,2025-01-04,Rohit,Headphones,Electronics,4,2000,1000,0.1,North,Uttar Pradesh,Cash
+ORD0330,2025-06-04,Sneha,Keyboard,Electronics,4,1200,600,0.1,West,Gujarat,Net Banking
+ORD0331,2025-02-01,Amit,Laptop,Electronics,3,55000,42000,0.1,North,Uttar Pradesh,Cash
+ORD0332,2025-12-27,Rohit,Chair,Furniture,2,5000,3000,0.15,East,West Bengal,UPI
+ORD0333,2025-03-10,Pooja,Chair,Furniture,3,5000,3000,0.05,North,Uttar Pradesh,Credit Card
+ORD0334,2025-12-26,Karan,Pen,Stationery,5,20,8,0.1,South,Karnataka,Cash
+ORD0335,2025-02-11,Karan,Bag,Accessories,2,1500,800,0.05,East,Bihar,Cash
+ORD0336,2025-02-27,Rahul,Bag,Accessories,3,1500,800,0.0,East,Bihar,Net Banking
+ORD0337,2025-06-17,Karan,Bag,Accessories,2,1500,800,0.05,North,Delhi,Cash
+ORD0338,2025-09-19,Pooja,Mobile,Electronics,2,20000,14000,0.15,West,Maharashtra,UPI
+ORD0339,2025-10-16,Rahul,Pen,Stationery,2,20,8,0.15,South,Tamil Nadu,Net Banking
+ORD0340,2025-05-11,Rahul,Pen,Stationery,3,20,8,0.0,South,Karnataka,Credit Card
+ORD0341,2025-06-26,Amit,Watch,Accessories,1,3000,1800,0.0,South,Karnataka,Net Banking
+ORD0342,2025-05-27,Vikas,Laptop,Electronics,1,55000,42000,0.15,Central,Madhya Pradesh,Credit Card
+ORD0343,2025-08-18,Vikas,Headphones,Electronics,4,2000,1000,0.1,South,Karnataka,Cash
+ORD0344,2025-03-02,Priya,Mobile,Electronics,5,20000,14000,0.05,West,Gujarat,Net Banking
+ORD0345,2025-01-02,Rahul,Notebook,Stationery,5,100,40,0.05,North,Uttar Pradesh,Debit Card
+ORD0346,2025-07-14,Anjali,Pen,Stationery,5,20,8,0.15,East,West Bengal,Credit Card
+ORD0347,2025-04-07,Amit,Pen,Stationery,3,20,8,0.05,North,Rajasthan,UPI
+ORD0348,2025-04-16,Amit,Notebook,Stationery,5,100,40,0.0,North,Uttar Pradesh,UPI
+ORD0349,2025-12-11,Rahul,Watch,Accessories,1,3000,1800,0.15,East,Bihar,Credit Card
+ORD0350,2025-10-04,Anjali,Laptop,Electronics,4,55000,42000,0.15,North,Uttar Pradesh,UPI
+ORD0351,2025-10-22,Neha,Headphones,Electronics,5,2000,1000,0.1,North,Uttar Pradesh,Net Banking
+ORD0352,2025-03-15,Karan,Watch,Accessories,3,3000,1800,0.05,North,Rajasthan,Credit Card
+ORD0353,2025-10-13,Sneha,Notebook,Stationery,3,100,40,0.1,Central,Madhya Pradesh,Credit Card
+ORD0354,2025-06-26,Vikas,Notebook,Stationery,5,100,40,0.15,Central,Madhya Pradesh,Net Banking
+ORD0355,2025-06-03,Vikas,Table,Furniture,4,8000,5000,0.15,North,Delhi,Credit Card
+ORD0356,2025-06-03,Priya,Bag,Accessories,4,1500,800,0.05,North,Uttar Pradesh,Cash
+ORD0357,2025-10-13,Karan,Laptop,Electronics,5,55000,42000,0.15,South,Karnataka,Credit Card
+ORD0358,2025-06-19,Amit,Notebook,Stationery,2,100,40,0.1,North,Uttar Pradesh,Cash
+ORD0359,2025-05-18,Vikas,Table,Furniture,1,8000,5000,0.05,Central,Madhya Pradesh,Net Banking
+ORD0360,2025-10-28,Karan,Watch,Accessories,1,3000,1800,0.0,North,Uttar Pradesh,Credit Card
+ORD0361,2025-01-08,Anjali,Pen,Stationery,2,20,8,0.1,North,Rajasthan,Credit Card
+ORD0362,2025-12-27,Anjali,Mobile,Electronics,4,20000,14000,0.05,East,Bihar,Cash
+ORD0363,2025-07-14,Pooja,Keyboard,Electronics,5,1200,600,0.1,North,Rajasthan,Net Banking
+ORD0364,2025-09-20,Pooja,Table,Furniture,3,8000,5000,0.1,West,Gujarat,Cash
+ORD0365,2025-07-09,Neha,Mobile,Electronics,4,20000,14000,0.1,North,Uttar Pradesh,Cash
+ORD0366,2025-01-09,Rohit,Laptop,Electronics,5,55000,42000,0.05,North,Delhi,Net Banking
+ORD0367,2025-03-20,Anjali,Watch,Accessories,5,3000,1800,0.15,North,Rajasthan,Debit Card
+ORD0368,2025-10-09,Neha,Keyboard,Electronics,4,1200,600,0.05,South,Tamil Nadu,Debit Card
+ORD0369,2025-06-30,Priya,Pen,Stationery,4,20,8,0.15,North,Delhi,Credit Card
+ORD0370,2025-11-25,Rahul,Bag,Accessories,4,1500,800,0.05,East,West Bengal,Net Banking
+ORD0371,2025-07-31,Priya,Laptop,Electronics,1,55000,42000,0.0,Central,Madhya Pradesh,Credit Card
+ORD0372,2025-09-16,Pooja,Mobile,Electronics,2,20000,14000,0.0,North,Uttar Pradesh,Debit Card
+ORD0373,2025-01-09,Rahul,Laptop,Electronics,5,55000,42000,0.15,South,Tamil Nadu,Net Banking
+ORD0374,2025-09-29,Rohit,Bag,Accessories,4,1500,800,0.0,Central,Madhya Pradesh,Net Banking
+ORD0375,2025-02-24,Amit,Chair,Furniture,1,5000,3000,0.15,North,Delhi,Net Banking
+ORD0376,2025-09-27,Rohit,Headphones,Electronics,2,2000,1000,0.05,East,Bihar,Debit Card
+ORD0377,2025-07-27,Pooja,Chair,Furniture,4,5000,3000,0.0,West,Gujarat,Net Banking
+ORD0378,2025-12-01,Rahul,Keyboard,Electronics,2,1200,600,0.1,West,Maharashtra,UPI
+ORD0379,2025-09-01,Rahul,Notebook,Stationery,4,100,40,0.15,East,West Bengal,UPI
+ORD0380,2025-11-27,Neha,Headphones,Electronics,1,2000,1000,0.15,South,Karnataka,Net Banking
+ORD0381,2025-04-19,Sneha,Mobile,Electronics,5,20000,14000,0.0,North,Uttar Pradesh,Cash
+ORD0382,2025-10-06,Sneha,Chair,Furniture,1,5000,3000,0.0,North,Rajasthan,UPI
+ORD0383,2025-10-28,Priya,Headphones,Electronics,3,2000,1000,0.0,North,Uttar Pradesh,Cash
+ORD0384,2025-05-04,Sneha,Mobile,Electronics,3,20000,14000,0.05,East,Bihar,Cash
+ORD0385,2025-12-19,Amit,Bag,Accessories,3,1500,800,0.15,North,Delhi,Net Banking
+ORD0386,2025-04-29,Amit,Table,Furniture,1,8000,5000,0.0,South,Karnataka,Debit Card
+ORD0387,2025-01-16,Rohit,Watch,Accessories,5,3000,1800,0.15,West,Gujarat,Cash
+ORD0388,2025-07-12,Vikas,Pen,Stationery,2,20,8,0.1,East,West Bengal,Credit Card
+ORD0389,2025-06-01,Anjali,Watch,Accessories,4,3000,1800,0.0,East,Bihar,UPI
+ORD0390,2025-12-31,Priya,Mobile,Electronics,3,20000,14000,0.05,South,Karnataka,Cash
+ORD0391,2025-01-03,Rohit,Table,Furniture,3,8000,5000,0.0,West,Maharashtra,Cash
+ORD0392,2025-02-14,Priya,Table,Furniture,3,8000,5000,0.0,North,Delhi,Cash
+ORD0393,2025-01-14,Amit,Pen,Stationery,5,20,8,0.15,West,Maharashtra,Debit Card
+ORD0394,2025-01-07,Rohit,Bag,Accessories,1,1500,800,0.1,South,Karnataka,Cash
+ORD0395,2025-09-24,Priya,Notebook,Stationery,1,100,40,0.05,East,Bihar,Cash
+ORD0396,2025-05-18,Pooja,Headphones,Electronics,2,2000,1000,0.1,North,Rajasthan,Credit Card
+ORD0397,2025-08-04,Rohit,Mobile,Electronics,2,20000,14000,0.15,North,Rajasthan,Cash
+ORD0398,2025-11-17,Pooja,Mobile,Electronics,3,20000,14000,0.1,North,Uttar Pradesh,Net Banking
+ORD0399,2025-03-11,Rohit,Watch,Accessories,2,3000,1800,0.15,West,Maharashtra,UPI
+ORD0400,2025-08-14,Neha,Notebook,Stationery,3,100,40,0.15,West,Gujarat,Cash
+ORD0401,2025-11-05,Anjali,Watch,Accessories,2,3000,1800,0.1,West,Gujarat,Cash
+ORD0402,2025-05-30,Pooja,Table,Furniture,2,8000,5000,0.15,West,Gujarat,Net Banking
+ORD0403,2025-07-21,Neha,Keyboard,Electronics,3,1200,600,0.15,North,Rajasthan,UPI
+ORD0404,2025-01-14,Pooja,Watch,Accessories,2,3000,1800,0.05,East,West Bengal,Credit Card
+ORD0405,2025-12-11,Pooja,Pen,Stationery,3,20,8,0.0,South,Karnataka,Credit Card
+ORD0406,2025-08-05,Vikas,Chair,Furniture,2,5000,3000,0.1,North,Delhi,UPI
+ORD0407,2025-07-25,Karan,Pen,Stationery,5,20,8,0.15,East,Bihar,Net Banking
+ORD0408,2025-12-26,Karan,Notebook,Stationery,5,100,40,0.0,West,Gujarat,Net Banking
+ORD0409,2025-03-27,Sneha,Mobile,Electronics,1,20000,14000,0.05,West,Gujarat,UPI
+ORD0410,2025-02-24,Rahul,Watch,Accessories,4,3000,1800,0.1,South,Karnataka,UPI
+ORD0411,2025-07-11,Vikas,Chair,Furniture,2,5000,3000,0.05,South,Tamil Nadu,Cash
+ORD0412,2025-01-13,Pooja,Watch,Accessories,5,3000,1800,0.05,West,Gujarat,UPI
+ORD0413,2025-03-14,Neha,Chair,Furniture,4,5000,3000,0.0,West,Maharashtra,Debit Card
+ORD0414,2025-09-05,Neha,Table,Furniture,4,8000,5000,0.05,East,West Bengal,Cash
+ORD0415,2025-02-04,Rohit,Mobile,Electronics,4,20000,14000,0.15,West,Gujarat,UPI
+ORD0416,2025-12-13,Priya,Mobile,Electronics,1,20000,14000,0.1,West,Maharashtra,Credit Card
+ORD0417,2025-10-14,Vikas,Bag,Accessories,2,1500,800,0.05,West,Gujarat,Cash
+ORD0418,2025-11-24,Vikas,Keyboard,Electronics,4,1200,600,0.05,North,Delhi,Cash
+ORD0419,2025-10-31,Vikas,Laptop,Electronics,5,55000,42000,0.05,South,Tamil Nadu,Cash
+ORD0420,2025-12-27,Amit,Laptop,Electronics,2,55000,42000,0.05,North,Rajasthan,Net Banking
+ORD0421,2025-06-16,Anjali,Mobile,Electronics,5,20000,14000,0.05,West,Gujarat,Cash
+ORD0422,2025-11-24,Neha,Mobile,Electronics,3,20000,14000,0.15,East,West Bengal,Net Banking
+ORD0423,2025-02-28,Neha,Notebook,Stationery,5,100,40,0.15,East,Bihar,Debit Card
+ORD0424,2025-11-11,Sneha,Pen,Stationery,5,20,8,0.05,North,Rajasthan,UPI
+ORD0425,2025-06-06,Amit,Headphones,Electronics,3,2000,1000,0.0,North,Uttar Pradesh,Credit Card
+ORD0426,2025-11-02,Priya,Table,Furniture,2,8000,5000,0.15,South,Karnataka,Net Banking
+ORD0427,2025-11-22,Karan,Notebook,Stationery,4,100,40,0.05,South,Tamil Nadu,Credit Card
+ORD0428,2025-03-13,Priya,Bag,Accessories,2,1500,800,0.15,North,Rajasthan,Debit Card
+ORD0429,2025-01-05,Pooja,Pen,Stationery,5,20,8,0.0,West,Gujarat,Credit Card
+ORD0430,2025-12-17,Pooja,Keyboard,Electronics,4,1200,600,0.15,South,Karnataka,Cash
+ORD0431,2025-10-17,Rahul,Pen,Stationery,4,20,8,0.05,West,Maharashtra,Credit Card
+ORD0432,2025-10-03,Rohit,Chair,Furniture,1,5000,3000,0.1,North,Uttar Pradesh,Credit Card
+ORD0433,2025-09-19,Amit,Pen,Stationery,5,20,8,0.15,East,West Bengal,Net Banking
+ORD0434,2025-01-22,Pooja,Mobile,Electronics,3,20000,14000,0.1,East,West Bengal,Net Banking
+ORD0435,2025-06-02,Rahul,Keyboard,Electronics,4,1200,600,0.0,North,Uttar Pradesh,Cash
+ORD0436,2025-03-02,Anjali,Chair,Furniture,3,5000,3000,0.0,South,Tamil Nadu,Credit Card
+ORD0437,2025-11-12,Priya,Watch,Accessories,3,3000,1800,0.15,North,Delhi,Credit Card
+ORD0438,2025-05-24,Sneha,Keyboard,Electronics,1,1200,600,0.1,East,West Bengal,Net Banking
+ORD0439,2025-10-21,Rohit,Headphones,Electronics,3,2000,1000,0.1,North,Rajasthan,Net Banking
+ORD0440,2025-05-22,Priya,Mobile,Electronics,2,20000,14000,0.15,Central,Madhya Pradesh,Credit Card
+ORD0441,2025-12-13,Vikas,Keyboard,Electronics,2,1200,600,0.1,North,Uttar Pradesh,Cash
+ORD0442,2025-07-12,Pooja,Headphones,Electronics,5,2000,1000,0.1,South,Karnataka,UPI
+ORD0443,2025-08-21,Pooja,Mobile,Electronics,4,20000,14000,0.1,West,Gujarat,Debit Card
+ORD0444,2025-11-22,Neha,Watch,Accessories,1,3000,1800,0.0,South,Tamil Nadu,UPI
+ORD0445,2025-04-19,Pooja,Bag,Accessories,4,1500,800,0.05,South,Karnataka,Debit Card
+ORD0446,2025-10-23,Priya,Table,Furniture,3,8000,5000,0.1,East,West Bengal,Net Banking
+ORD0447,2025-02-20,Pooja,Pen,Stationery,3,20,8,0.0,Central,Madhya Pradesh,UPI
+ORD0448,2025-01-01,Vikas,Mobile,Electronics,2,20000,14000,0.15,South,Tamil Nadu,Credit Card
+ORD0449,2025-02-17,Neha,Headphones,Electronics,3,2000,1000,0.05,North,Rajasthan,Debit Card
+ORD0450,2025-07-22,Rohit,Mobile,Electronics,3,20000,14000,0.05,Central,Madhya Pradesh,Credit Card
+ORD0451,2025-04-20,Pooja,Notebook,Stationery,1,100,40,0.0,Central,Madhya Pradesh,UPI
+ORD0452,2025-12-15,Pooja,Headphones,Electronics,5,2000,1000,0.05,East,West Bengal,UPI
+ORD0453,2025-12-22,Priya,Laptop,Electronics,3,55000,42000,0.0,South,Karnataka,Cash
+ORD0454,2025-02-22,Amit,Mobile,Electronics,2,20000,14000,0.15,West,Maharashtra,Debit Card
+ORD0455,2025-03-10,Priya,Table,Furniture,3,8000,5000,0.05,South,Karnataka,UPI
+ORD0456,2025-11-29,Priya,Bag,Accessories,5,1500,800,0.0,East,Bihar,Cash
+ORD0457,2025-11-12,Pooja,Table,Furniture,2,8000,5000,0.05,South,Karnataka,Credit Card
+ORD0458,2025-10-29,Vikas,Mobile,Electronics,1,20000,14000,0.05,West,Maharashtra,Debit Card
+ORD0459,2025-05-22,Amit,Notebook,Stationery,3,100,40,0.05,North,Uttar Pradesh,Credit Card
+ORD0460,2025-12-04,Rohit,Bag,Accessories,5,1500,800,0.1,Central,Madhya Pradesh,Credit Card
+ORD0461,2025-06-01,Rahul,Bag,Accessories,5,1500,800,0.05,South,Karnataka,Credit Card
+ORD0462,2025-09-13,Sneha,Pen,Stationery,4,20,8,0.0,North,Uttar Pradesh,UPI
+ORD0463,2025-03-09,Vikas,Bag,Accessories,1,1500,800,0.1,West,Gujarat,Net Banking
+ORD0464,2025-02-07,Rahul,Notebook,Stationery,3,100,40,0.05,South,Tamil Nadu,Net Banking
+ORD0465,2025-01-21,Rahul,Mobile,Electronics,1,20000,14000,0.1,North,Uttar Pradesh,Cash
+ORD0466,2025-12-26,Vikas,Bag,Accessories,3,1500,800,0.15,South,Karnataka,UPI
+ORD0467,2025-02-12,Rohit,Bag,Accessories,5,1500,800,0.05,North,Rajasthan,UPI
+ORD0468,2025-06-17,Vikas,Bag,Accessories,2,1500,800,0.05,East,West Bengal,Net Banking
+ORD0469,2025-01-30,Anjali,Mobile,Electronics,3,20000,14000,0.15,North,Uttar Pradesh,UPI
+ORD0470,2025-11-08,Rahul,Notebook,Stationery,1,100,40,0.15,East,Bihar,Debit Card
+ORD0471,2025-12-26,Rahul,Headphones,Electronics,1,2000,1000,0.0,North,Delhi,Credit Card
+ORD0472,2025-07-10,Priya,Pen,Stationery,3,20,8,0.1,North,Delhi,Debit Card
+ORD0473,2025-05-20,Karan,Mobile,Electronics,1,20000,14000,0.1,South,Karnataka,UPI
+ORD0474,2025-08-22,Karan,Chair,Furniture,5,5000,3000,0.0,South,Tamil Nadu,Debit Card
+ORD0475,2025-03-22,Rohit,Laptop,Electronics,4,55000,42000,0.05,West,Gujarat,UPI
+ORD0476,2025-01-02,Rahul,Watch,Accessories,1,3000,1800,0.05,East,West Bengal,UPI
+ORD0477,2025-07-16,Priya,Keyboard,Electronics,1,1200,600,0.15,West,Gujarat,Credit Card
+ORD0478,2025-06-14,Anjali,Laptop,Electronics,5,55000,42000,0.15,North,Uttar Pradesh,Cash
+ORD0479,2025-07-10,Amit,Table,Furniture,3,8000,5000,0.0,East,Bihar,Net Banking
+ORD0480,2025-01-24,Vikas,Laptop,Electronics,2,55000,42000,0.05,East,West Bengal,UPI
+ORD0481,2025-02-14,Karan,Pen,Stationery,3,20,8,0.1,West,Gujarat,Cash
+ORD0482,2025-10-16,Rohit,Laptop,Electronics,3,55000,42000,0.05,North,Rajasthan,Net Banking
+ORD0483,2025-09-10,Anjali,Keyboard,Electronics,4,1200,600,0.1,East,Bihar,Net Banking
+ORD0484,2025-01-13,Anjali,Keyboard,Electronics,2,1200,600,0.0,South,Karnataka,Net Banking
+ORD0485,2025-12-03,Vikas,Table,Furniture,1,8000,5000,0.1,Central,Madhya Pradesh,Debit Card
+ORD0486,2025-09-09,Rahul,Mobile,Electronics,2,20000,14000,0.05,South,Karnataka,Credit Card
+ORD0487,2025-09-24,Vikas,Chair,Furniture,1,5000,3000,0.0,North,Uttar Pradesh,Debit Card
+ORD0488,2025-03-10,Vikas,Pen,Stationery,1,20,8,0.0,East,West Bengal,UPI
+ORD0489,2025-12-06,Priya,Watch,Accessories,5,3000,1800,0.0,South,Karnataka,Credit Card
+ORD0490,2025-12-25,Neha,Chair,Furniture,3,5000,3000,0.1,South,Karnataka,Debit Card
+ORD0491,2025-04-14,Priya,Pen,Stationery,3,20,8,0.05,West,Maharashtra,Net Banking
+ORD0492,2025-08-19,Pooja,Mobile,Electronics,2,20000,14000,0.0,North,Delhi,Debit Card
+ORD0493,2025-08-20,Rohit,Notebook,Stationery,1,100,40,0.1,North,Uttar Pradesh,Cash
+ORD0494,2025-12-18,Rohit,Chair,Furniture,1,5000,3000,0.0,North,Delhi,Net Banking
+ORD0495,2025-02-16,Anjali,Laptop,Electronics,2,55000,42000,0.1,North,Delhi,Debit Card
+ORD0496,2025-05-14,Priya,Notebook,Stationery,5,100,40,0.0,North,Rajasthan,UPI
+ORD0497,2025-08-25,Amit,Notebook,Stationery,4,100,40,0.05,West,Maharashtra,Credit Card
+ORD0498,2025-03-08,Anjali,Mobile,Electronics,1,20000,14000,0.0,North,Uttar Pradesh,Cash
+ORD0499,2025-01-12,Amit,Table,Furniture,1,8000,5000,0.1,West,Maharashtra,Credit Card
+ORD0500,2025-03-04,Rahul,Pen,Stationery,2,20,8,0.0,West,Gujarat,Cash
+ORD0501,2025-09-12,Rahul,Laptop,Electronics,2,55000,42000,0.15,South,Karnataka,Cash
+ORD0502,2025-04-06,Rohit,Notebook,Stationery,2,100,40,0.1,North,Uttar Pradesh,Debit Card
+ORD0503,2025-11-14,Sneha,Pen,Stationery,2,20,8,0.0,East,Bihar,Credit Card
+ORD0504,2025-09-03,Rahul,Chair,Furniture,4,5000,3000,0.15,East,West Bengal,UPI
+ORD0505,2025-04-13,Karan,Chair,Furniture,4,5000,3000,0.05,South,Karnataka,Credit Card
+ORD0506,2025-09-03,Karan,Bag,Accessories,1,1500,800,0.15,West,Gujarat,Cash
+ORD0507,2025-05-19,Priya,Table,Furniture,5,8000,5000,0.1,South,Karnataka,UPI
+ORD0508,2025-05-24,Rahul,Table,Furniture,5,8000,5000,0.05,Central,Madhya Pradesh,Cash
+ORD0509,2025-02-21,Anjali,Bag,Accessories,3,1500,800,0.05,North,Delhi,Credit Card
+ORD0510,2025-10-22,Vikas,Chair,Furniture,5,5000,3000,0.0,North,Uttar Pradesh,Debit Card
+ORD0511,2025-06-12,Neha,Headphones,Electronics,2,2000,1000,0.05,East,Bihar,Net Banking
+ORD0512,2025-04-07,Pooja,Laptop,Electronics,3,55000,42000,0.05,East,Bihar,Net Banking
+ORD0513,2025-02-16,Rahul,Chair,Furniture,2,5000,3000,0.15,Central,Madhya Pradesh,Credit Card
+ORD0514,2025-09-02,Rahul,Watch,Accessories,2,3000,1800,0.0,East,West Bengal,Debit Card
+ORD0515,2025-04-01,Neha,Watch,Accessories,2,3000,1800,0.05,West,Gujarat,UPI
+ORD0516,2025-09-27,Neha,Laptop,Electronics,2,55000,42000,0.05,West,Maharashtra,UPI
+ORD0517,2025-06-04,Neha,Table,Furniture,4,8000,5000,0.0,West,Gujarat,Credit Card
+ORD0518,2025-03-31,Karan,Headphones,Electronics,4,2000,1000,0.15,West,Gujarat,Net Banking
+ORD0519,2025-06-07,Rohit,Table,Furniture,2,8000,5000,0.05,South,Karnataka,Credit Card
+ORD0520,2025-01-17,Priya,Headphones,Electronics,1,2000,1000,0.15,East,Bihar,Net Banking
+ORD0521,2025-02-23,Pooja,Table,Furniture,5,8000,5000,0.05,East,Bihar,Credit Card
+ORD0522,2025-06-13,Priya,Table,Furniture,1,8000,5000,0.05,West,Gujarat,UPI
+ORD0523,2025-04-18,Anjali,Table,Furniture,4,8000,5000,0.0,North,Rajasthan,UPI
+ORD0524,2025-01-25,Vikas,Table,Furniture,3,8000,5000,0.0,Central,Madhya Pradesh,Cash
+ORD0525,2025-07-13,Neha,Notebook,Stationery,2,100,40,0.15,South,Tamil Nadu,Net Banking
+ORD0526,2025-11-30,Anjali,Notebook,Stationery,1,100,40,0.15,East,Bihar,Credit Card
+ORD0527,2025-01-11,Neha,Pen,Stationery,1,20,8,0.0,North,Rajasthan,Debit Card
+ORD0528,2025-07-12,Priya,Mobile,Electronics,1,20000,14000,0.1,North,Delhi,UPI
+ORD0529,2025-11-11,Pooja,Bag,Accessories,1,1500,800,0.1,East,Bihar,UPI
+ORD0530,2025-01-28,Amit,Notebook,Stationery,2,100,40,0.15,North,Delhi,Debit Card
+ORD0531,2025-10-04,Rohit,Keyboard,Electronics,2,1200,600,0.15,East,West Bengal,Debit Card
+ORD0532,2025-07-21,Sneha,Chair,Furniture,2,5000,3000,0.0,Central,Madhya Pradesh,Net Banking
+ORD0533,2025-01-02,Vikas,Pen,Stationery,2,20,8,0.0,West,Gujarat,UPI
+ORD0534,2025-02-19,Rahul,Chair,Furniture,5,5000,3000,0.15,North,Uttar Pradesh,Credit Card
+ORD0535,2025-03-01,Rohit,Headphones,Electronics,3,2000,1000,0.0,South,Tamil Nadu,Cash
+ORD0536,2025-11-25,Karan,Pen,Stationery,4,20,8,0.1,West,Maharashtra,Cash
+ORD0537,2025-04-06,Pooja,Headphones,Electronics,3,2000,1000,0.15,West,Gujarat,UPI
+ORD0538,2025-04-26,Rohit,Chair,Furniture,4,5000,3000,0.15,North,Rajasthan,Net Banking
+ORD0539,2025-12-09,Neha,Laptop,Electronics,2,55000,42000,0.0,West,Maharashtra,Net Banking
+ORD0540,2025-02-01,Vikas,Notebook,Stationery,5,100,40,0.05,East,West Bengal,Net Banking
+ORD0541,2025-05-01,Pooja,Notebook,Stationery,5,100,40,0.15,East,Bihar,Debit Card
+ORD0542,2025-10-20,Karan,Mobile,Electronics,4,20000,14000,0.0,East,West Bengal,Net Banking
+ORD0543,2025-03-30,Priya,Watch,Accessories,2,3000,1800,0.0,South,Tamil Nadu,Credit Card
+ORD0544,2025-02-10,Vikas,Keyboard,Electronics,2,1200,600,0.0,South,Karnataka,Credit Card
+ORD0545,2025-02-04,Amit,Headphones,Electronics,5,2000,1000,0.1,West,Gujarat,Cash
+ORD0546,2025-09-24,Pooja,Bag,Accessories,4,1500,800,0.1,North,Rajasthan,UPI
+ORD0547,2025-08-01,Priya,Watch,Accessories,5,3000,1800,0.15,West,Maharashtra,Credit Card
+ORD0548,2025-10-16,Amit,Watch,Accessories,5,3000,1800,0.0,West,Maharashtra,Debit Card
+ORD0549,2025-07-16,Pooja,Bag,Accessories,3,1500,800,0.15,North,Rajasthan,Net Banking
+ORD0550,2025-05-22,Vikas,Watch,Accessories,4,3000,1800,0.0,North,Delhi,Credit Card
+ORD0551,2025-07-22,Neha,Watch,Accessories,5,3000,1800,0.15,Central,Madhya Pradesh,Credit Card
+ORD0552,2025-01-11,Neha,Laptop,Electronics,4,55000,42000,0.1,West,Gujarat,Debit Card
+ORD0553,2025-04-27,Priya,Chair,Furniture,3,5000,3000,0.15,West,Maharashtra,Debit Card
+ORD0554,2025-11-06,Amit,Pen,Stationery,3,20,8,0.1,South,Karnataka,Credit Card
+ORD0555,2025-09-22,Neha,Pen,Stationery,2,20,8,0.15,South,Tamil Nadu,UPI
+ORD0556,2025-12-30,Karan,Bag,Accessories,2,1500,800,0.0,North,Rajasthan,Cash
+ORD0557,2025-04-09,Anjali,Headphones,Electronics,5,2000,1000,0.0,North,Delhi,UPI
+ORD0558,2025-07-04,Anjali,Keyboard,Electronics,1,1200,600,0.15,Central,Madhya Pradesh,Debit Card
+ORD0559,2025-12-15,Rahul,Table,Furniture,4,8000,5000,0.15,West,Maharashtra,Credit Card
+ORD0560,2025-08-31,Sneha,Table,Furniture,4,8000,5000,0.15,North,Delhi,Net Banking
+ORD0561,2025-12-19,Amit,Table,Furniture,3,8000,5000,0.05,North,Rajasthan,Debit Card
+ORD0562,2025-10-20,Anjali,Laptop,Electronics,4,55000,42000,0.0,North,Delhi,Credit Card
+ORD0563,2025-09-20,Rahul,Keyboard,Electronics,2,1200,600,0.1,South,Karnataka,UPI
+ORD0564,2025-01-05,Anjali,Pen,Stationery,2,20,8,0.05,East,Bihar,Debit Card
+ORD0565,2025-07-12,Neha,Watch,Accessories,3,3000,1800,0.1,South,Karnataka,Cash
+ORD0566,2025-12-13,Karan,Chair,Furniture,2,5000,3000,0.15,North,Rajasthan,Net Banking
+ORD0567,2025-09-19,Neha,Notebook,Stationery,5,100,40,0.0,Central,Madhya Pradesh,Net Banking
+ORD0568,2025-12-17,Amit,Watch,Accessories,5,3000,1800,0.1,North,Rajasthan,Cash
+ORD0569,2025-05-22,Rohit,Mobile,Electronics,3,20000,14000,0.1,West,Gujarat,Debit Card
+ORD0570,2025-11-04,Vikas,Keyboard,Electronics,2,1200,600,0.05,Central,Madhya Pradesh,Debit Card
+ORD0571,2025-05-13,Vikas,Headphones,Electronics,1,2000,1000,0.15,North,Rajasthan,Cash
+ORD0572,2025-04-24,Karan,Notebook,Stationery,1,100,40,0.05,West,Gujarat,Cash
+ORD0573,2025-12-03,Karan,Table,Furniture,5,8000,5000,0.1,North,Delhi,Credit Card
+ORD0574,2025-05-13,Karan,Chair,Furniture,1,5000,3000,0.15,North,Delhi,Credit Card
+ORD0575,2025-04-25,Rohit,Table,Furniture,1,8000,5000,0.05,West,Gujarat,Cash
+ORD0576,2025-05-31,Pooja,Table,Furniture,3,8000,5000,0.1,East,Bihar,UPI
+ORD0577,2025-04-10,Karan,Pen,Stationery,1,20,8,0.0,South,Tamil Nadu,UPI
+ORD0578,2025-01-28,Priya,Notebook,Stationery,5,100,40,0.1,South,Karnataka,Credit Card
+ORD0579,2025-08-23,Priya,Keyboard,Electronics,3,1200,600,0.15,East,Bihar,Debit Card
+ORD0580,2025-11-20,Priya,Headphones,Electronics,1,2000,1000,0.15,West,Gujarat,Debit Card
+ORD0581,2025-04-18,Priya,Laptop,Electronics,1,55000,42000,0.15,North,Rajasthan,Net Banking
+ORD0582,2025-11-11,Vikas,Headphones,Electronics,4,2000,1000,0.0,North,Delhi,Cash
+ORD0583,2025-01-03,Rahul,Notebook,Stationery,4,100,40,0.15,South,Karnataka,Net Banking
+ORD0584,2025-09-29,Anjali,Keyboard,Electronics,3,1200,600,0.0,West,Gujarat,UPI
+ORD0585,2025-06-09,Priya,Laptop,Electronics,2,55000,42000,0.05,West,Gujarat,UPI
+ORD0586,2025-02-03,Rahul,Notebook,Stationery,5,100,40,0.1,North,Delhi,Debit Card
+ORD0587,2025-12-18,Priya,Chair,Furniture,4,5000,3000,0.1,South,Karnataka,Debit Card
+ORD0588,2025-07-26,Rahul,Pen,Stationery,3,20,8,0.05,North,Delhi,Credit Card
+ORD0589,2025-10-29,Karan,Keyboard,Electronics,2,1200,600,0.05,Central,Madhya Pradesh,Credit Card
+ORD0590,2025-11-24,Rohit,Mobile,Electronics,3,20000,14000,0.0,South,Karnataka,Net Banking
+ORD0591,2025-12-01,Rahul,Watch,Accessories,1,3000,1800,0.0,West,Maharashtra,UPI
+ORD0592,2025-03-05,Karan,Mobile,Electronics,4,20000,14000,0.15,South,Karnataka,Debit Card
+ORD0593,2025-06-04,Vikas,Pen,Stationery,2,20,8,0.05,Central,Madhya Pradesh,UPI
+ORD0594,2025-02-23,Karan,Bag,Accessories,3,1500,800,0.05,South,Karnataka,Net Banking
+ORD0595,2025-09-12,Anjali,Mobile,Electronics,3,20000,14000,0.0,West,Maharashtra,Net Banking
+ORD0596,2025-12-27,Vikas,Keyboard,Electronics,3,1200,600,0.05,West,Gujarat,Debit Card
+ORD0597,2025-12-19,Pooja,Headphones,Electronics,1,2000,1000,0.15,North,Uttar Pradesh,Debit Card
+ORD0598,2025-02-26,Sneha,Keyboard,Electronics,1,1200,600,0.0,West,Maharashtra,Cash
+ORD0599,2025-05-12,Anjali,Headphones,Electronics,1,2000,1000,0.0,West,Maharashtra,Cash
+ORD0600,2025-02-21,Priya,Chair,Furniture,3,5000,3000,0.15,Central,Madhya Pradesh,UPI
+ORD0601,2025-03-01,Amit,Chair,Furniture,3,5000,3000,0.1,South,Karnataka,UPI
+ORD0602,2025-07-03,Pooja,Laptop,Electronics,2,55000,42000,0.05,West,Gujarat,Net Banking
+ORD0603,2025-04-04,Amit,Chair,Furniture,1,5000,3000,0.1,West,Gujarat,Cash
+ORD0604,2025-12-20,Pooja,Notebook,Stationery,4,100,40,0.1,South,Karnataka,Cash
+ORD0605,2025-03-23,Amit,Headphones,Electronics,1,2000,1000,0.05,Central,Madhya Pradesh,Cash
+ORD0606,2025-11-09,Vikas,Watch,Accessories,4,3000,1800,0.15,North,Delhi,Debit Card
+ORD0607,2025-09-07,Amit,Watch,Accessories,1,3000,1800,0.05,South,Tamil Nadu,Cash
+ORD0608,2025-12-02,Neha,Pen,Stationery,1,20,8,0.0,North,Rajasthan,UPI
+ORD0609,2025-09-23,Karan,Bag,Accessories,5,1500,800,0.05,West,Gujarat,Net Banking
+ORD0610,2025-06-27,Vikas,Mobile,Electronics,4,20000,14000,0.05,South,Tamil Nadu,Credit Card
+ORD0611,2025-11-26,Priya,Bag,Accessories,5,1500,800,0.0,Central,Madhya Pradesh,Net Banking
+ORD0612,2025-09-09,Neha,Pen,Stationery,4,20,8,0.05,West,Maharashtra,Credit Card
+ORD0613,2025-04-25,Karan,Table,Furniture,3,8000,5000,0.0,East,West Bengal,Cash
+ORD0614,2025-08-16,Sneha,Notebook,Stationery,2,100,40,0.0,South,Tamil Nadu,Cash
+ORD0615,2025-03-02,Pooja,Mobile,Electronics,4,20000,14000,0.15,West,Gujarat,UPI
+ORD0616,2025-10-13,Karan,Mobile,Electronics,4,20000,14000,0.15,Central,Madhya Pradesh,UPI
+ORD0617,2025-10-15,Anjali,Mobile,Electronics,5,20000,14000,0.1,East,West Bengal,Cash
+ORD0618,2025-08-21,Neha,Table,Furniture,3,8000,5000,0.0,North,Uttar Pradesh,Net Banking
+ORD0619,2025-08-20,Amit,Watch,Accessories,5,3000,1800,0.15,West,Gujarat,UPI
+ORD0620,2025-11-21,Rohit,Keyboard,Electronics,1,1200,600,0.1,West,Gujarat,Net Banking
+ORD0621,2025-03-26,Pooja,Bag,Accessories,3,1500,800,0.0,Central,Madhya Pradesh,Credit Card
+ORD0622,2025-04-11,Anjali,Notebook,Stationery,1,100,40,0.1,East,Bihar,UPI
+ORD0623,2025-06-23,Amit,Notebook,Stationery,2,100,40,0.15,North,Uttar Pradesh,Cash
+ORD0624,2025-08-23,Sneha,Laptop,Electronics,5,55000,42000,0.0,South,Tamil Nadu,Net Banking
+ORD0625,2025-01-25,Karan,Headphones,Electronics,4,2000,1000,0.0,East,West Bengal,Cash
+ORD0626,2025-03-30,Priya,Watch,Accessories,4,3000,1800,0.05,East,Bihar,UPI
+ORD0627,2025-07-16,Vikas,Notebook,Stationery,5,100,40,0.1,East,West Bengal,Net Banking
+ORD0628,2025-05-31,Pooja,Keyboard,Electronics,3,1200,600,0.15,West,Gujarat,Credit Card
+ORD0629,2025-06-10,Karan,Headphones,Electronics,4,2000,1000,0.1,East,West Bengal,Credit Card
+ORD0630,2025-12-11,Priya,Keyboard,Electronics,2,1200,600,0.1,West,Gujarat,Credit Card
+ORD0631,2025-06-30,Karan,Bag,Accessories,5,1500,800,0.1,West,Maharashtra,Cash
+ORD0632,2025-05-27,Vikas,Watch,Accessories,5,3000,1800,0.15,East,West Bengal,UPI
+ORD0633,2025-03-16,Rahul,Bag,Accessories,1,1500,800,0.0,South,Karnataka,UPI
+ORD0634,2025-12-16,Rohit,Keyboard,Electronics,3,1200,600,0.05,North,Rajasthan,Credit Card
+ORD0635,2025-01-17,Neha,Laptop,Electronics,3,55000,42000,0.05,East,West Bengal,Cash
+ORD0636,2025-07-19,Anjali,Mobile,Electronics,5,20000,14000,0.05,East,West Bengal,Net Banking
+ORD0637,2025-08-02,Neha,Chair,Furniture,1,5000,3000,0.15,South,Karnataka,Net Banking
+ORD0638,2025-11-14,Pooja,Laptop,Electronics,1,55000,42000,0.1,North,Uttar Pradesh,Credit Card
+ORD0639,2025-05-31,Pooja,Table,Furniture,5,8000,5000,0.05,North,Uttar Pradesh,Credit Card
+ORD0640,2025-03-03,Vikas,Mobile,Electronics,2,20000,14000,0.05,East,West Bengal,UPI
+ORD0641,2025-03-24,Sneha,Notebook,Stationery,3,100,40,0.1,North,Delhi,Debit Card
+ORD0642,2025-01-21,Priya,Laptop,Electronics,3,55000,42000,0.15,North,Delhi,Debit Card
+ORD0643,2025-10-21,Karan,Watch,Accessories,1,3000,1800,0.1,South,Tamil Nadu,Debit Card
+ORD0644,2025-09-24,Amit,Mobile,Electronics,3,20000,14000,0.05,North,Delhi,Net Banking
+ORD0645,2025-06-28,Anjali,Headphones,Electronics,4,2000,1000,0.15,West,Maharashtra,Credit Card
+ORD0646,2025-04-22,Sneha,Table,Furniture,3,8000,5000,0.1,North,Rajasthan,Net Banking
+ORD0647,2025-12-09,Neha,Pen,Stationery,5,20,8,0.0,West,Maharashtra,Cash
+ORD0648,2025-12-16,Neha,Keyboard,Electronics,5,1200,600,0.05,Central,Madhya Pradesh,Cash
+ORD0649,2025-05-25,Rahul,Mobile,Electronics,4,20000,14000,0.1,East,West Bengal,Net Banking
+ORD0650,2025-01-23,Rohit,Table,Furniture,5,8000,5000,0.15,South,Tamil Nadu,Credit Card
+ORD0651,2025-03-27,Karan,Table,Furniture,5,8000,5000,0.0,West,Maharashtra,Net Banking
+ORD0652,2025-12-17,Vikas,Laptop,Electronics,1,55000,42000,0.05,North,Uttar Pradesh,UPI
+ORD0653,2025-12-18,Priya,Keyboard,Electronics,5,1200,600,0.15,West,Maharashtra,UPI
+ORD0654,2025-02-07,Rahul,Pen,Stationery,3,20,8,0.0,West,Maharashtra,Credit Card
+ORD0655,2025-04-27,Rohit,Chair,Furniture,5,5000,3000,0.0,East,Bihar,Cash
+ORD0656,2025-06-11,Rahul,Notebook,Stationery,4,100,40,0.15,South,Karnataka,Cash
+ORD0657,2025-02-02,Sneha,Mobile,Electronics,5,20000,14000,0.0,East,Bihar,UPI
+ORD0658,2025-12-18,Rohit,Mobile,Electronics,3,20000,14000,0.0,North,Rajasthan,Net Banking
+ORD0659,2025-07-22,Rahul,Mobile,Electronics,3,20000,14000,0.15,South,Karnataka,Cash
+ORD0660,2025-07-20,Karan,Headphones,Electronics,5,2000,1000,0.05,North,Delhi,Debit Card
+ORD0661,2025-10-11,Karan,Headphones,Electronics,3,2000,1000,0.1,Central,Madhya Pradesh,Credit Card
+ORD0662,2025-11-02,Vikas,Mobile,Electronics,1,20000,14000,0.0,East,Bihar,Net Banking
+ORD0663,2025-06-26,Anjali,Bag,Accessories,1,1500,800,0.1,North,Uttar Pradesh,Cash
+ORD0664,2025-04-24,Sneha,Bag,Accessories,2,1500,800,0.05,North,Delhi,Debit Card
+ORD0665,2025-01-28,Karan,Keyboard,Electronics,1,1200,600,0.05,East,Bihar,Cash
+ORD0666,2025-05-09,Amit,Bag,Accessories,1,1500,800,0.1,West,Maharashtra,Credit Card
+ORD0667,2025-03-07,Anjali,Watch,Accessories,4,3000,1800,0.1,West,Gujarat,UPI
+ORD0668,2025-06-12,Pooja,Chair,Furniture,5,5000,3000,0.0,North,Uttar Pradesh,Cash
+ORD0669,2025-03-20,Sneha,Table,Furniture,5,8000,5000,0.1,East,Bihar,Net Banking
+ORD0670,2025-01-03,Neha,Table,Furniture,3,8000,5000,0.15,North,Delhi,Credit Card
+ORD0671,2025-03-10,Neha,Keyboard,Electronics,4,1200,600,0.1,West,Gujarat,Cash
+ORD0672,2025-09-07,Karan,Pen,Stationery,4,20,8,0.1,North,Rajasthan,UPI
+ORD0673,2025-03-13,Karan,Headphones,Electronics,5,2000,1000,0.0,North,Rajasthan,Credit Card
+ORD0674,2025-09-17,Rahul,Chair,Furniture,1,5000,3000,0.0,Central,Madhya Pradesh,Net Banking
+ORD0675,2025-10-10,Rohit,Watch,Accessories,4,3000,1800,0.05,Central,Madhya Pradesh,Net Banking
+ORD0676,2025-07-20,Anjali,Bag,Accessories,4,1500,800,0.05,West,Gujarat,Net Banking
+ORD0677,2025-09-19,Amit,Chair,Furniture,2,5000,3000,0.15,East,West Bengal,Cash
+ORD0678,2025-11-11,Priya,Table,Furniture,5,8000,5000,0.0,North,Uttar Pradesh,Net Banking
+ORD0679,2025-10-17,Sneha,Headphones,Electronics,4,2000,1000,0.05,North,Delhi,Credit Card
+ORD0680,2025-09-07,Anjali,Pen,Stationery,3,20,8,0.0,North,Uttar Pradesh,UPI
+ORD0681,2025-12-09,Anjali,Chair,Furniture,3,5000,3000,0.05,Central,Madhya Pradesh,Net Banking
+ORD0682,2025-01-24,Rahul,Table,Furniture,4,8000,5000,0.15,South,Tamil Nadu,Debit Card
+ORD0683,2025-10-24,Karan,Mobile,Electronics,5,20000,14000,0.1,North,Rajasthan,Net Banking
+ORD0684,2025-10-28,Amit,Headphones,Electronics,4,2000,1000,0.15,West,Gujarat,Net Banking
+ORD0685,2025-07-27,Neha,Chair,Furniture,4,5000,3000,0.05,East,West Bengal,Debit Card
+ORD0686,2025-03-13,Pooja,Pen,Stationery,4,20,8,0.0,East,West Bengal,Credit Card
+ORD0687,2025-03-18,Priya,Keyboard,Electronics,1,1200,600,0.1,North,Uttar Pradesh,Credit Card
+ORD0688,2025-08-01,Neha,Table,Furniture,5,8000,5000,0.0,North,Uttar Pradesh,UPI
+ORD0689,2025-10-30,Priya,Pen,Stationery,4,20,8,0.15,North,Uttar Pradesh,Cash
+ORD0690,2025-10-21,Sneha,Laptop,Electronics,2,55000,42000,0.0,North,Delhi,Credit Card
+ORD0691,2025-03-17,Rahul,Headphones,Electronics,5,2000,1000,0.0,East,Bihar,Credit Card
+ORD0692,2025-10-16,Rahul,Chair,Furniture,2,5000,3000,0.15,East,Bihar,Debit Card
+ORD0693,2025-08-30,Pooja,Mobile,Electronics,2,20000,14000,0.15,East,Bihar,Credit Card
+ORD0694,2025-04-04,Sneha,Keyboard,Electronics,4,1200,600,0.05,East,Bihar,Net Banking
+ORD0695,2025-11-02,Sneha,Chair,Furniture,2,5000,3000,0.1,South,Tamil Nadu,UPI
+ORD0696,2025-02-25,Rahul,Keyboard,Electronics,4,1200,600,0.15,North,Delhi,Credit Card
+ORD0697,2025-11-07,Amit,Bag,Accessories,5,1500,800,0.15,North,Delhi,Credit Card
+ORD0698,2025-09-15,Amit,Pen,Stationery,5,20,8,0.0,East,West Bengal,UPI
+ORD0699,2025-09-25,Vikas,Pen,Stationery,2,20,8,0.0,South,Karnataka,Debit Card
+ORD0700,2025-09-04,Vikas,Laptop,Electronics,5,55000,42000,0.15,North,Uttar Pradesh,Debit Card
+ORD0701,2025-03-10,Rohit,Watch,Accessories,5,3000,1800,0.0,South,Karnataka,Cash
+ORD0702,2025-10-06,Vikas,Keyboard,Electronics,1,1200,600,0.1,East,Bihar,Debit Card
+ORD0703,2025-09-25,Amit,Keyboard,Electronics,1,1200,600,0.0,East,Bihar,Net Banking
+ORD0704,2025-07-29,Neha,Laptop,Electronics,4,55000,42000,0.05,West,Gujarat,UPI
+ORD0705,2025-10-02,Vikas,Headphones,Electronics,4,2000,1000,0.1,North,Rajasthan,Net Banking
+ORD0706,2025-04-15,Vikas,Table,Furniture,5,8000,5000,0.1,South,Karnataka,Net Banking
+ORD0707,2025-10-14,Karan,Bag,Accessories,4,1500,800,0.05,West,Gujarat,Cash
+ORD0708,2025-03-12,Amit,Chair,Furniture,3,5000,3000,0.1,South,Karnataka,Credit Card
+ORD0709,2025-09-18,Vikas,Pen,Stationery,2,20,8,0.0,North,Uttar Pradesh,Debit Card
+ORD0710,2025-07-19,Rahul,Bag,Accessories,5,1500,800,0.0,North,Delhi,UPI
+ORD0711,2025-02-02,Rohit,Headphones,Electronics,4,2000,1000,0.15,West,Maharashtra,Credit Card
+ORD0712,2025-07-25,Sneha,Table,Furniture,1,8000,5000,0.0,South,Karnataka,Net Banking
+ORD0713,2025-11-24,Pooja,Chair,Furniture,5,5000,3000,0.0,North,Delhi,Cash
+ORD0714,2025-01-18,Sneha,Laptop,Electronics,2,55000,42000,0.1,North,Uttar Pradesh,Net Banking
+ORD0715,2025-07-04,Anjali,Bag,Accessories,2,1500,800,0.05,Central,Madhya Pradesh,UPI
+ORD0716,2025-06-30,Vikas,Headphones,Electronics,1,2000,1000,0.1,South,Karnataka,Cash
+ORD0717,2025-02-16,Karan,Watch,Accessories,2,3000,1800,0.0,West,Maharashtra,Debit Card
+ORD0718,2025-05-22,Anjali,Bag,Accessories,5,1500,800,0.1,West,Gujarat,Net Banking
+ORD0719,2025-01-03,Rohit,Keyboard,Electronics,4,1200,600,0.15,East,Bihar,Credit Card
+ORD0720,2025-02-07,Karan,Notebook,Stationery,5,100,40,0.0,East,West Bengal,Debit Card
+ORD0721,2025-10-22,Rohit,Table,Furniture,1,8000,5000,0.1,East,West Bengal,Cash
+ORD0722,2025-06-23,Pooja,Notebook,Stationery,5,100,40,0.15,North,Uttar Pradesh,Cash
+ORD0723,2025-05-13,Amit,Watch,Accessories,1,3000,1800,0.15,West,Maharashtra,Cash
+ORD0724,2025-06-30,Karan,Keyboard,Electronics,2,1200,600,0.1,South,Karnataka,Net Banking
+ORD0725,2025-02-17,Vikas,Laptop,Electronics,3,55000,42000,0.05,North,Rajasthan,Debit Card
+ORD0726,2025-06-10,Neha,Mobile,Electronics,5,20000,14000,0.05,South,Tamil Nadu,Credit Card
+ORD0727,2025-09-13,Anjali,Watch,Accessories,3,3000,1800,0.05,North,Uttar Pradesh,Credit Card
+ORD0728,2025-04-14,Anjali,Keyboard,Electronics,3,1200,600,0.05,North,Uttar Pradesh,Net Banking
+ORD0729,2025-02-10,Pooja,Table,Furniture,2,8000,5000,0.0,West,Maharashtra,Net Banking
+ORD0730,2025-07-10,Sneha,Laptop,Electronics,5,55000,42000,0.0,South,Tamil Nadu,Debit Card
+ORD0731,2025-04-04,Karan,Pen,Stationery,5,20,8,0.1,South,Tamil Nadu,Debit Card
+ORD0732,2025-09-27,Vikas,Notebook,Stationery,2,100,40,0.05,Central,Madhya Pradesh,Cash
+ORD0733,2025-12-18,Priya,Bag,Accessories,1,1500,800,0.1,South,Karnataka,Cash
+ORD0734,2025-12-19,Rahul,Mobile,Electronics,5,20000,14000,0.15,West,Gujarat,UPI
+ORD0735,2025-07-05,Sneha,Keyboard,Electronics,4,1200,600,0.0,West,Gujarat,Debit Card
+ORD0736,2025-05-18,Pooja,Headphones,Electronics,5,2000,1000,0.1,North,Uttar Pradesh,Net Banking
+ORD0737,2025-08-06,Anjali,Table,Furniture,3,8000,5000,0.05,South,Tamil Nadu,Cash
+ORD0738,2025-08-19,Priya,Table,Furniture,3,8000,5000,0.15,North,Rajasthan,Net Banking
+ORD0739,2025-05-19,Anjali,Headphones,Electronics,5,2000,1000,0.05,West,Maharashtra,Net Banking
+ORD0740,2025-03-18,Pooja,Notebook,Stationery,4,100,40,0.05,North,Delhi,UPI
+ORD0741,2025-11-19,Karan,Headphones,Electronics,4,2000,1000,0.15,North,Delhi,Net Banking
+ORD0742,2025-10-15,Sneha,Table,Furniture,4,8000,5000,0.1,North,Rajasthan,UPI
+ORD0743,2025-04-21,Rohit,Notebook,Stationery,1,100,40,0.05,Central,Madhya Pradesh,Cash
+ORD0744,2025-07-04,Neha,Mobile,Electronics,4,20000,14000,0.1,North,Rajasthan,Net Banking
+ORD0745,2025-07-30,Amit,Bag,Accessories,3,1500,800,0.1,Central,Madhya Pradesh,Debit Card
+ORD0746,2025-07-01,Neha,Watch,Accessories,2,3000,1800,0.05,North,Rajasthan,Net Banking
+ORD0747,2025-11-11,Rohit,Pen,Stationery,4,20,8,0.0,South,Karnataka,Cash
+ORD0748,2025-11-20,Sneha,Headphones,Electronics,2,2000,1000,0.1,South,Karnataka,Net Banking
+ORD0749,2025-06-25,Anjali,Notebook,Stationery,1,100,40,0.0,North,Delhi,Debit Card
+ORD0750,2025-11-27,Vikas,Table,Furniture,3,8000,5000,0.1,East,Bihar,Debit Card
+ORD0751,2025-03-27,Priya,Pen,Stationery,3,20,8,0.15,South,Karnataka,UPI
+ORD0752,2025-04-18,Priya,Headphones,Electronics,2,2000,1000,0.1,West,Maharashtra,Cash
+ORD0753,2025-10-08,Rahul,Mobile,Electronics,1,20000,14000,0.0,South,Tamil Nadu,UPI
+ORD0754,2025-05-15,Sneha,Notebook,Stationery,5,100,40,0.0,West,Maharashtra,Credit Card
+ORD0755,2025-05-07,Rohit,Mobile,Electronics,4,20000,14000,0.1,North,Uttar Pradesh,Cash
+ORD0756,2025-01-18,Neha,Headphones,Electronics,2,2000,1000,0.05,Central,Madhya Pradesh,Debit Card
+ORD0757,2025-08-16,Priya,Pen,Stationery,4,20,8,0.1,East,West Bengal,Net Banking
+ORD0758,2025-08-11,Karan,Headphones,Electronics,5,2000,1000,0.15,East,Bihar,Net Banking
+ORD0759,2025-04-27,Amit,Chair,Furniture,3,5000,3000,0.15,East,West Bengal,Cash
+ORD0760,2025-03-21,Rohit,Chair,Furniture,3,5000,3000,0.15,North,Rajasthan,UPI
+ORD0761,2025-05-27,Pooja,Laptop,Electronics,5,55000,42000,0.05,West,Gujarat,Net Banking
+ORD0762,2025-01-05,Vikas,Laptop,Electronics,4,55000,42000,0.15,North,Rajasthan,Debit Card
+ORD0763,2025-07-11,Anjali,Watch,Accessories,2,3000,1800,0.0,East,West Bengal,Cash
+ORD0764,2025-03-25,Vikas,Bag,Accessories,4,1500,800,0.15,North,Uttar Pradesh,Cash
+ORD0765,2025-11-17,Anjali,Keyboard,Electronics,3,1200,600,0.0,South,Karnataka,Net Banking
+ORD0766,2025-05-18,Vikas,Watch,Accessories,3,3000,1800,0.1,East,West Bengal,Credit Card
+ORD0767,2025-02-26,Pooja,Mobile,Electronics,2,20000,14000,0.05,North,Rajasthan,Net Banking
+ORD0768,2025-06-14,Rahul,Pen,Stationery,3,20,8,0.15,North,Uttar Pradesh,Credit Card
+ORD0769,2025-02-22,Rohit,Laptop,Electronics,5,55000,42000,0.0,North,Delhi,Debit Card
+ORD0770,2025-02-16,Priya,Headphones,Electronics,4,2000,1000,0.0,North,Uttar Pradesh,UPI
+ORD0771,2025-06-09,Pooja,Pen,Stationery,2,20,8,0.1,South,Karnataka,Debit Card
+ORD0772,2025-03-16,Rahul,Pen,Stationery,1,20,8,0.1,West,Maharashtra,Debit Card
+ORD0773,2025-04-09,Rohit,Notebook,Stationery,1,100,40,0.15,North,Delhi,Cash
+ORD0774,2025-08-15,Anjali,Laptop,Electronics,1,55000,42000,0.05,South,Karnataka,UPI
+ORD0775,2025-12-07,Anjali,Keyboard,Electronics,4,1200,600,0.0,East,West Bengal,Cash
+ORD0776,2025-11-19,Rahul,Notebook,Stationery,3,100,40,0.1,North,Delhi,Net Banking
+ORD0777,2025-11-23,Rohit,Bag,Accessories,1,1500,800,0.1,South,Tamil Nadu,Credit Card
+ORD0778,2025-05-01,Vikas,Table,Furniture,1,8000,5000,0.05,West,Maharashtra,Debit Card
+ORD0779,2025-03-03,Vikas,Laptop,Electronics,2,55000,42000,0.1,East,Bihar,Credit Card
+ORD0780,2025-03-21,Neha,Laptop,Electronics,1,55000,42000,0.15,East,Bihar,UPI
+ORD0781,2025-12-18,Sneha,Keyboard,Electronics,2,1200,600,0.15,West,Maharashtra,Debit Card
+ORD0782,2025-12-26,Karan,Laptop,Electronics,1,55000,42000,0.1,North,Delhi,UPI
+ORD0783,2025-10-13,Neha,Headphones,Electronics,4,2000,1000,0.05,West,Gujarat,Cash
+ORD0784,2025-03-10,Rohit,Keyboard,Electronics,1,1200,600,0.15,West,Gujarat,UPI
+ORD0785,2025-12-23,Pooja,Pen,Stationery,4,20,8,0.1,East,West Bengal,Credit Card
+ORD0786,2025-08-28,Rohit,Watch,Accessories,2,3000,1800,0.1,West,Gujarat,Net Banking
+ORD0787,2025-03-21,Pooja,Bag,Accessories,2,1500,800,0.0,East,West Bengal,Debit Card
+ORD0788,2025-01-01,Karan,Chair,Furniture,5,5000,3000,0.1,South,Tamil Nadu,Cash
+ORD0789,2025-05-03,Neha,Headphones,Electronics,1,2000,1000,0.1,East,Bihar,UPI
+ORD0790,2025-12-16,Pooja,Bag,Accessories,4,1500,800,0.05,East,West Bengal,Net Banking
+ORD0791,2025-07-29,Neha,Headphones,Electronics,5,2000,1000,0.1,West,Gujarat,UPI
+ORD0792,2025-03-08,Priya,Mobile,Electronics,5,20000,14000,0.0,Central,Madhya Pradesh,UPI
+ORD0793,2025-02-20,Rahul,Keyboard,Electronics,1,1200,600,0.15,North,Uttar Pradesh,Net Banking
+ORD0794,2025-07-07,Anjali,Notebook,Stationery,4,100,40,0.1,Central,Madhya Pradesh,Net Banking
+ORD0795,2025-02-10,Pooja,Mobile,Electronics,1,20000,14000,0.05,South,Tamil Nadu,UPI
+ORD0796,2025-12-29,Rahul,Table,Furniture,5,8000,5000,0.15,West,Gujarat,Net Banking
+ORD0797,2025-06-05,Amit,Chair,Furniture,5,5000,3000,0.0,West,Maharashtra,Credit Card
+ORD0798,2025-09-30,Vikas,Bag,Accessories,1,1500,800,0.0,North,Uttar Pradesh,Credit Card
+ORD0799,2025-11-17,Priya,Keyboard,Electronics,5,1200,600,0.05,East,Bihar,Net Banking
+ORD0800,2025-07-03,Pooja,Bag,Accessories,4,1500,800,0.0,East,Bihar,Cash
+ORD0801,2025-07-25,Karan,Mobile,Electronics,2,20000,14000,0.05,East,West Bengal,Debit Card
+ORD0802,2025-06-11,Karan,Headphones,Electronics,5,2000,1000,0.15,West,Gujarat,Debit Card
+ORD0803,2025-11-08,Anjali,Table,Furniture,4,8000,5000,0.15,West,Gujarat,Net Banking
+ORD0804,2025-05-11,Neha,Bag,Accessories,2,1500,800,0.15,East,West Bengal,Cash
+ORD0805,2025-05-26,Sneha,Pen,Stationery,4,20,8,0.0,Central,Madhya Pradesh,UPI
+ORD0806,2025-06-03,Anjali,Bag,Accessories,2,1500,800,0.1,Central,Madhya Pradesh,Credit Card
+ORD0807,2025-09-19,Karan,Table,Furniture,1,8000,5000,0.1,East,West Bengal,Net Banking
+ORD0808,2025-08-24,Neha,Watch,Accessories,2,3000,1800,0.0,Central,Madhya Pradesh,Credit Card
+ORD0809,2025-05-08,Anjali,Headphones,Electronics,3,2000,1000,0.1,East,Bihar,Debit Card
+ORD0810,2025-04-22,Amit,Chair,Furniture,1,5000,3000,0.15,East,Bihar,Debit Card
+ORD0811,2025-02-18,Sneha,Pen,Stationery,2,20,8,0.15,East,Bihar,Debit Card
+ORD0812,2025-01-29,Neha,Laptop,Electronics,5,55000,42000,0.15,West,Maharashtra,Debit Card
+ORD0813,2025-12-01,Sneha,Notebook,Stationery,4,100,40,0.0,North,Uttar Pradesh,UPI
+ORD0814,2025-01-22,Neha,Notebook,Stationery,1,100,40,0.1,East,West Bengal,Net Banking
+ORD0815,2025-12-24,Anjali,Watch,Accessories,2,3000,1800,0.1,East,West Bengal,Credit Card
+ORD0816,2025-10-22,Karan,Laptop,Electronics,4,55000,42000,0.15,East,Bihar,UPI
+ORD0817,2025-03-17,Priya,Keyboard,Electronics,4,1200,600,0.1,South,Karnataka,Debit Card
+ORD0818,2025-07-24,Rohit,Mobile,Electronics,4,20000,14000,0.0,East,West Bengal,UPI
+ORD0819,2025-03-11,Pooja,Notebook,Stationery,5,100,40,0.15,North,Delhi,Net Banking
+ORD0820,2025-04-11,Karan,Keyboard,Electronics,4,1200,600,0.15,East,Bihar,Net Banking
+ORD0821,2025-05-17,Vikas,Bag,Accessories,2,1500,800,0.05,West,Maharashtra,Debit Card
+ORD0822,2025-08-05,Neha,Watch,Accessories,1,3000,1800,0.0,South,Karnataka,Debit Card
+ORD0823,2025-12-02,Rahul,Keyboard,Electronics,3,1200,600,0.1,East,Bihar,Debit Card
+ORD0824,2025-03-16,Pooja,Headphones,Electronics,3,2000,1000,0.15,East,Bihar,UPI
+ORD0825,2025-02-13,Amit,Keyboard,Electronics,2,1200,600,0.1,North,Delhi,UPI
+ORD0826,2025-01-08,Neha,Keyboard,Electronics,5,1200,600,0.05,North,Rajasthan,UPI
+ORD0827,2025-06-19,Anjali,Chair,Furniture,4,5000,3000,0.15,Central,Madhya Pradesh,Net Banking
+ORD0828,2025-09-05,Sneha,Keyboard,Electronics,2,1200,600,0.1,East,West Bengal,Credit Card
+ORD0829,2025-03-29,Rahul,Laptop,Electronics,4,55000,42000,0.0,North,Rajasthan,Debit Card
+ORD0830,2025-08-27,Rahul,Keyboard,Electronics,5,1200,600,0.1,Central,Madhya Pradesh,UPI
+ORD0831,2025-01-10,Rohit,Notebook,Stationery,3,100,40,0.1,West,Maharashtra,Cash
+ORD0832,2025-09-06,Sneha,Keyboard,Electronics,4,1200,600,0.0,West,Gujarat,Net Banking
+ORD0833,2025-08-23,Karan,Mobile,Electronics,2,20000,14000,0.05,East,West Bengal,UPI
+ORD0834,2025-09-08,Vikas,Laptop,Electronics,2,55000,42000,0.1,West,Gujarat,Credit Card
+ORD0835,2025-11-17,Rohit,Laptop,Electronics,3,55000,42000,0.1,West,Gujarat,Credit Card
+ORD0836,2025-07-18,Rahul,Bag,Accessories,3,1500,800,0.0,North,Rajasthan,Net Banking
+ORD0837,2025-07-21,Priya,Chair,Furniture,2,5000,3000,0.05,West,Gujarat,UPI
+ORD0838,2025-05-04,Sneha,Notebook,Stationery,5,100,40,0.05,South,Karnataka,Credit Card
+ORD0839,2025-10-05,Priya,Notebook,Stationery,3,100,40,0.1,South,Tamil Nadu,Credit Card
+ORD0840,2025-06-08,Karan,Headphones,Electronics,5,2000,1000,0.05,North,Delhi,Credit Card
+ORD0841,2025-02-04,Karan,Notebook,Stationery,2,100,40,0.05,West,Gujarat,Net Banking
+ORD0842,2025-01-16,Neha,Mobile,Electronics,2,20000,14000,0.1,North,Delhi,Cash
+ORD0843,2025-03-19,Anjali,Notebook,Stationery,3,100,40,0.15,North,Rajasthan,UPI
+ORD0844,2025-11-12,Rohit,Headphones,Electronics,2,2000,1000,0.0,East,Bihar,Net Banking
+ORD0845,2025-04-29,Anjali,Watch,Accessories,5,3000,1800,0.05,East,Bihar,UPI
+ORD0846,2025-09-15,Sneha,Table,Furniture,1,8000,5000,0.15,North,Delhi,Cash
+ORD0847,2025-08-31,Priya,Table,Furniture,2,8000,5000,0.15,South,Tamil Nadu,Credit Card
+ORD0848,2025-01-08,Rohit,Keyboard,Electronics,2,1200,600,0.0,South,Karnataka,Cash
+ORD0849,2025-04-01,Pooja,Keyboard,Electronics,2,1200,600,0.05,West,Maharashtra,Net Banking
+ORD0850,2025-08-07,Vikas,Pen,Stationery,3,20,8,0.15,North,Uttar Pradesh,UPI
+ORD0851,2025-11-10,Sneha,Watch,Accessories,4,3000,1800,0.1,South,Karnataka,Net Banking
+ORD0852,2025-02-25,Pooja,Bag,Accessories,5,1500,800,0.0,East,West Bengal,Cash
+ORD0853,2025-10-13,Vikas,Laptop,Electronics,2,55000,42000,0.15,Central,Madhya Pradesh,Net Banking
+ORD0854,2025-07-23,Rohit,Laptop,Electronics,2,55000,42000,0.1,South,Tamil Nadu,Debit Card
+ORD0855,2025-11-10,Rahul,Pen,Stationery,2,20,8,0.15,North,Rajasthan,Net Banking
+ORD0856,2025-09-14,Amit,Headphones,Electronics,4,2000,1000,0.15,West,Maharashtra,Credit Card
+ORD0857,2025-07-31,Neha,Watch,Accessories,5,3000,1800,0.05,South,Karnataka,Cash
+ORD0858,2025-12-31,Anjali,Laptop,Electronics,2,55000,42000,0.15,East,Bihar,Cash
+ORD0859,2025-03-05,Amit,Mobile,Electronics,3,20000,14000,0.1,North,Delhi,UPI
+ORD0860,2025-12-29,Vikas,Pen,Stationery,3,20,8,0.0,East,West Bengal,Net Banking
+ORD0861,2025-07-14,Rahul,Watch,Accessories,2,3000,1800,0.15,East,West Bengal,Credit Card
+ORD0862,2025-03-16,Priya,Table,Furniture,5,8000,5000,0.05,North,Delhi,UPI
+ORD0863,2025-05-28,Priya,Notebook,Stationery,3,100,40,0.1,South,Tamil Nadu,UPI
+ORD0864,2025-05-10,Rahul,Headphones,Electronics,2,2000,1000,0.0,East,Bihar,Cash
+ORD0865,2025-09-10,Anjali,Pen,Stationery,4,20,8,0.0,East,Bihar,Credit Card
+ORD0866,2025-08-15,Amit,Watch,Accessories,4,3000,1800,0.15,South,Karnataka,Net Banking
+ORD0867,2025-05-23,Sneha,Watch,Accessories,1,3000,1800,0.05,East,West Bengal,Net Banking
+ORD0868,2025-01-29,Neha,Keyboard,Electronics,1,1200,600,0.05,North,Delhi,UPI
+ORD0869,2025-02-14,Rahul,Headphones,Electronics,1,2000,1000,0.1,West,Gujarat,UPI
+ORD0870,2025-11-09,Sneha,Notebook,Stationery,2,100,40,0.05,North,Rajasthan,Net Banking
+ORD0871,2025-07-04,Rahul,Bag,Accessories,2,1500,800,0.15,East,Bihar,UPI
+ORD0872,2025-02-04,Vikas,Chair,Furniture,3,5000,3000,0.1,South,Karnataka,Net Banking
+ORD0873,2025-03-04,Rohit,Mobile,Electronics,3,20000,14000,0.15,North,Delhi,Debit Card
+ORD0874,2025-11-10,Rahul,Bag,Accessories,4,1500,800,0.05,North,Uttar Pradesh,UPI
+ORD0875,2025-12-19,Sneha,Watch,Accessories,5,3000,1800,0.0,South,Tamil Nadu,Debit Card
+ORD0876,2025-09-27,Sneha,Notebook,Stationery,5,100,40,0.1,North,Rajasthan,Net Banking
+ORD0877,2025-11-20,Pooja,Table,Furniture,2,8000,5000,0.15,East,West Bengal,Cash
+ORD0878,2025-04-10,Rahul,Headphones,Electronics,5,2000,1000,0.05,North,Rajasthan,UPI
+ORD0879,2025-11-12,Vikas,Laptop,Electronics,4,55000,42000,0.0,North,Uttar Pradesh,Cash
+ORD0880,2025-11-23,Anjali,Laptop,Electronics,3,55000,42000,0.1,East,West Bengal,UPI
+ORD0881,2025-06-07,Rohit,Keyboard,Electronics,3,1200,600,0.1,West,Maharashtra,Net Banking
+ORD0882,2025-12-18,Neha,Bag,Accessories,3,1500,800,0.0,West,Maharashtra,Debit Card
+ORD0883,2025-04-10,Neha,Notebook,Stationery,5,100,40,0.0,North,Delhi,Debit Card
+ORD0884,2025-09-04,Priya,Pen,Stationery,4,20,8,0.0,North,Delhi,Cash
+ORD0885,2025-01-29,Karan,Bag,Accessories,3,1500,800,0.15,South,Karnataka,Debit Card
+ORD0886,2025-10-23,Neha,Watch,Accessories,3,3000,1800,0.0,North,Uttar Pradesh,Debit Card
+ORD0887,2025-06-23,Vikas,Mobile,Electronics,2,20000,14000,0.1,Central,Madhya Pradesh,Net Banking
+ORD0888,2025-11-01,Amit,Headphones,Electronics,5,2000,1000,0.15,North,Delhi,Debit Card
+ORD0889,2025-02-14,Pooja,Table,Furniture,1,8000,5000,0.1,South,Karnataka,Credit Card
+ORD0890,2025-09-26,Rohit,Table,Furniture,4,8000,5000,0.1,North,Uttar Pradesh,Credit Card
+ORD0891,2025-02-17,Pooja,Mobile,Electronics,3,20000,14000,0.0,North,Uttar Pradesh,Net Banking
+ORD0892,2025-06-24,Pooja,Laptop,Electronics,4,55000,42000,0.05,North,Uttar Pradesh,Net Banking
+ORD0893,2025-09-22,Priya,Chair,Furniture,3,5000,3000,0.05,West,Maharashtra,Credit Card
+ORD0894,2025-03-01,Rahul,Laptop,Electronics,4,55000,42000,0.15,East,West Bengal,Debit Card
+ORD0895,2025-08-28,Rahul,Laptop,Electronics,5,55000,42000,0.0,West,Gujarat,UPI
+ORD0896,2025-06-09,Anjali,Bag,Accessories,3,1500,800,0.0,East,Bihar,Debit Card
+ORD0897,2025-09-30,Neha,Keyboard,Electronics,2,1200,600,0.1,North,Rajasthan,Cash
+ORD0898,2025-05-21,Amit,Mobile,Electronics,3,20000,14000,0.05,North,Delhi,UPI
+ORD0899,2025-10-05,Neha,Watch,Accessories,5,3000,1800,0.0,North,Uttar Pradesh,Net Banking
+ORD0900,2025-10-21,Anjali,Table,Furniture,3,8000,5000,0.05,North,Rajasthan,Credit Card
+ORD0901,2025-08-16,Rahul,Mobile,Electronics,3,20000,14000,0.1,East,West Bengal,Credit Card
+ORD0902,2025-07-16,Rahul,Laptop,Electronics,4,55000,42000,0.0,West,Maharashtra,UPI
+ORD0903,2025-10-31,Pooja,Notebook,Stationery,4,100,40,0.05,East,Bihar,Net Banking
+ORD0904,2025-12-10,Karan,Table,Furniture,3,8000,5000,0.1,North,Uttar Pradesh,UPI
+ORD0905,2025-12-24,Pooja,Pen,Stationery,5,20,8,0.05,West,Maharashtra,UPI
+ORD0906,2025-04-29,Anjali,Pen,Stationery,3,20,8,0.15,South,Tamil Nadu,Credit Card
+ORD0907,2025-04-04,Neha,Watch,Accessories,3,3000,1800,0.1,South,Karnataka,Debit Card
+ORD0908,2025-09-01,Amit,Pen,Stationery,4,20,8,0.0,West,Maharashtra,Debit Card
+ORD0909,2025-06-28,Sneha,Pen,Stationery,4,20,8,0.05,North,Rajasthan,Net Banking
+ORD0910,2025-02-24,Neha,Headphones,Electronics,5,2000,1000,0.0,South,Karnataka,Net Banking
+ORD0911,2025-10-30,Vikas,Mobile,Electronics,3,20000,14000,0.15,South,Karnataka,Credit Card
+ORD0912,2025-07-16,Amit,Watch,Accessories,2,3000,1800,0.05,South,Tamil Nadu,Debit Card
+ORD0913,2025-10-18,Neha,Keyboard,Electronics,5,1200,600,0.15,South,Karnataka,Net Banking
+ORD0914,2025-09-07,Amit,Keyboard,Electronics,2,1200,600,0.0,East,Bihar,Net Banking
+ORD0915,2025-02-19,Pooja,Watch,Accessories,4,3000,1800,0.1,East,West Bengal,Credit Card
+ORD0916,2025-02-25,Sneha,Chair,Furniture,4,5000,3000,0.0,East,Bihar,Cash
+ORD0917,2025-04-22,Priya,Table,Furniture,4,8000,5000,0.0,West,Maharashtra,Net Banking
+ORD0918,2025-09-30,Rohit,Laptop,Electronics,2,55000,42000,0.05,South,Tamil Nadu,Cash
+ORD0919,2025-04-16,Neha,Watch,Accessories,5,3000,1800,0.15,North,Uttar Pradesh,Debit Card
+ORD0920,2025-02-15,Sneha,Watch,Accessories,3,3000,1800,0.15,West,Gujarat,UPI
+ORD0921,2025-05-31,Rahul,Watch,Accessories,5,3000,1800,0.15,North,Delhi,Debit Card
+ORD0922,2025-07-03,Amit,Bag,Accessories,1,1500,800,0.0,East,West Bengal,Debit Card
+ORD0923,2025-07-21,Neha,Laptop,Electronics,2,55000,42000,0.15,East,Bihar,Cash
+ORD0924,2025-04-19,Priya,Notebook,Stationery,4,100,40,0.15,East,West Bengal,Cash
+ORD0925,2025-08-02,Priya,Headphones,Electronics,2,2000,1000,0.15,West,Gujarat,Debit Card
+ORD0926,2025-11-28,Rahul,Headphones,Electronics,2,2000,1000,0.0,West,Maharashtra,Credit Card
+ORD0927,2025-03-12,Vikas,Pen,Stationery,4,20,8,0.05,West,Maharashtra,Cash
+ORD0928,2025-09-18,Vikas,Watch,Accessories,4,3000,1800,0.05,South,Tamil Nadu,Net Banking
+ORD0929,2025-04-06,Vikas,Pen,Stationery,4,20,8,0.1,North,Uttar Pradesh,Net Banking
+ORD0930,2025-12-31,Karan,Laptop,Electronics,5,55000,42000,0.15,North,Uttar Pradesh,Debit Card
+ORD0931,2025-01-20,Sneha,Notebook,Stationery,5,100,40,0.1,Central,Madhya Pradesh,Cash
+ORD0932,2025-03-14,Karan,Table,Furniture,1,8000,5000,0.15,West,Maharashtra,Debit Card
+ORD0933,2025-11-09,Amit,Pen,Stationery,5,20,8,0.0,East,West Bengal,Credit Card
+ORD0934,2025-01-28,Neha,Pen,Stationery,1,20,8,0.1,East,Bihar,Net Banking
+ORD0935,2025-08-29,Sneha,Laptop,Electronics,4,55000,42000,0.15,East,West Bengal,Debit Card
+ORD0936,2025-03-27,Rahul,Notebook,Stationery,3,100,40,0.1,North,Rajasthan,Net Banking
+ORD0937,2025-11-19,Pooja,Chair,Furniture,5,5000,3000,0.1,Central,Madhya Pradesh,Net Banking
+ORD0938,2025-11-16,Rahul,Headphones,Electronics,5,2000,1000,0.0,North,Rajasthan,Debit Card
+ORD0939,2025-02-09,Rohit,Pen,Stationery,1,20,8,0.05,East,West Bengal,Debit Card
+ORD0940,2025-05-12,Rahul,Headphones,Electronics,5,2000,1000,0.1,North,Rajasthan,UPI
+ORD0941,2025-07-09,Priya,Watch,Accessories,2,3000,1800,0.05,South,Tamil Nadu,Debit Card
+ORD0942,2025-01-17,Neha,Keyboard,Electronics,4,1200,600,0.05,East,West Bengal,UPI
+ORD0943,2025-07-31,Vikas,Headphones,Electronics,5,2000,1000,0.05,South,Tamil Nadu,Credit Card
+ORD0944,2025-06-26,Rahul,Pen,Stationery,2,20,8,0.05,East,Bihar,Debit Card
+ORD0945,2025-07-24,Pooja,Mobile,Electronics,1,20000,14000,0.05,South,Tamil Nadu,Debit Card
+ORD0946,2025-12-16,Vikas,Pen,Stationery,5,20,8,0.05,South,Karnataka,Cash
+ORD0947,2025-05-28,Pooja,Chair,Furniture,2,5000,3000,0.15,Central,Madhya Pradesh,Cash
+ORD0948,2025-09-30,Neha,Table,Furniture,5,8000,5000,0.0,West,Maharashtra,Cash
+ORD0949,2025-05-17,Amit,Watch,Accessories,3,3000,1800,0.1,North,Rajasthan,Debit Card
+ORD0950,2025-12-11,Sneha,Watch,Accessories,4,3000,1800,0.15,North,Uttar Pradesh,Credit Card
+ORD0951,2025-10-08,Rahul,Bag,Accessories,3,1500,800,0.05,West,Gujarat,UPI
+ORD0952,2025-09-26,Amit,Mobile,Electronics,1,20000,14000,0.15,West,Maharashtra,Cash
+ORD0953,2025-04-09,Rahul,Table,Furniture,2,8000,5000,0.1,North,Rajasthan,UPI
+ORD0954,2025-12-03,Anjali,Watch,Accessories,1,3000,1800,0.0,East,Bihar,Net Banking
+ORD0955,2025-03-08,Vikas,Mobile,Electronics,1,20000,14000,0.0,East,Bihar,Net Banking
+ORD0956,2025-05-31,Pooja,Headphones,Electronics,1,2000,1000,0.05,North,Rajasthan,UPI
+ORD0957,2025-05-12,Priya,Pen,Stationery,3,20,8,0.15,West,Gujarat,UPI
+ORD0958,2025-06-20,Rahul,Chair,Furniture,1,5000,3000,0.15,South,Karnataka,Debit Card
+ORD0959,2025-09-09,Anjali,Chair,Furniture,2,5000,3000,0.15,West,Maharashtra,Net Banking
+ORD0960,2025-03-15,Karan,Notebook,Stationery,2,100,40,0.15,West,Maharashtra,Cash
+ORD0961,2025-05-13,Amit,Keyboard,Electronics,5,1200,600,0.0,South,Tamil Nadu,UPI
+ORD0962,2025-01-10,Pooja,Mobile,Electronics,1,20000,14000,0.1,South,Tamil Nadu,Credit Card
+ORD0963,2025-03-19,Neha,Laptop,Electronics,1,55000,42000,0.15,North,Rajasthan,Cash
+ORD0964,2025-08-12,Vikas,Watch,Accessories,1,3000,1800,0.15,South,Tamil Nadu,UPI
+ORD0965,2025-12-19,Pooja,Bag,Accessories,2,1500,800,0.0,South,Karnataka,UPI
+ORD0966,2025-12-16,Rohit,Watch,Accessories,5,3000,1800,0.1,West,Gujarat,Cash
+ORD0967,2025-06-24,Amit,Laptop,Electronics,1,55000,42000,0.1,East,West Bengal,Cash
+ORD0968,2025-01-21,Vikas,Chair,Furniture,2,5000,3000,0.05,East,West Bengal,Credit Card
+ORD0969,2025-09-07,Amit,Chair,Furniture,4,5000,3000,0.0,West,Gujarat,Cash
+ORD0970,2025-01-13,Sneha,Keyboard,Electronics,2,1200,600,0.0,North,Uttar Pradesh,Credit Card
+ORD0971,2025-11-26,Rohit,Pen,Stationery,4,20,8,0.0,East,West Bengal,Cash
+ORD0972,2025-06-23,Rahul,Bag,Accessories,4,1500,800,0.0,Central,Madhya Pradesh,Debit Card
+ORD0973,2025-12-01,Karan,Laptop,Electronics,4,55000,42000,0.0,North,Uttar Pradesh,Cash
+ORD0974,2025-01-19,Priya,Bag,Accessories,2,1500,800,0.05,West,Maharashtra,Cash
+ORD0975,2025-12-26,Priya,Laptop,Electronics,4,55000,42000,0.0,North,Uttar Pradesh,UPI
+ORD0976,2025-08-22,Sneha,Headphones,Electronics,1,2000,1000,0.1,West,Maharashtra,Credit Card
+ORD0977,2025-09-12,Sneha,Watch,Accessories,1,3000,1800,0.0,West,Maharashtra,Net Banking
+ORD0978,2025-06-22,Vikas,Keyboard,Electronics,1,1200,600,0.05,South,Karnataka,Debit Card
+ORD0979,2025-04-20,Rahul,Mobile,Electronics,5,20000,14000,0.05,West,Gujarat,Net Banking
+ORD0980,2025-05-21,Priya,Headphones,Electronics,3,2000,1000,0.0,West,Maharashtra,Cash
+ORD0981,2025-05-05,Sneha,Headphones,Electronics,3,2000,1000,0.05,South,Tamil Nadu,UPI
+ORD0982,2025-01-09,Pooja,Headphones,Electronics,1,2000,1000,0.15,North,Delhi,UPI
+ORD0983,2025-12-28,Sneha,Laptop,Electronics,1,55000,42000,0.05,West,Maharashtra,Debit Card
+ORD0984,2025-03-15,Rohit,Notebook,Stationery,4,100,40,0.05,North,Uttar Pradesh,Net Banking
+ORD0985,2025-11-09,Rahul,Pen,Stationery,4,20,8,0.05,North,Delhi,Net Banking
+ORD0986,2025-06-28,Vikas,Headphones,Electronics,4,2000,1000,0.0,North,Rajasthan,UPI
+ORD0987,2025-09-29,Amit,Bag,Accessories,2,1500,800,0.05,West,Maharashtra,Net Banking
+ORD0988,2025-11-17,Anjali,Table,Furniture,5,8000,5000,0.05,South,Tamil Nadu,Debit Card
+ORD0989,2025-12-17,Pooja,Laptop,Electronics,2,55000,42000,0.0,North,Delhi,Cash
+ORD0990,2025-11-27,Neha,Headphones,Electronics,2,2000,1000,0.0,Central,Madhya Pradesh,Debit Card
+ORD0991,2025-11-12,Pooja,Keyboard,Electronics,4,1200,600,0.1,West,Gujarat,UPI
+ORD0992,2025-01-15,Pooja,Mobile,Electronics,1,20000,14000,0.05,North,Delhi,Net Banking
+ORD0993,2025-10-31,Sneha,Mobile,Electronics,1,20000,14000,0.05,South,Tamil Nadu,Debit Card
+ORD0994,2025-02-26,Neha,Notebook,Stationery,2,100,40,0.1,North,Uttar Pradesh,Credit Card
+ORD0995,2025-07-12,Anjali,Mobile,Electronics,2,20000,14000,0.15,North,Uttar Pradesh,UPI
+ORD0996,2025-08-12,Priya,Pen,Stationery,5,20,8,0.15,Central,Madhya Pradesh,Credit Card
+ORD0997,2025-07-11,Priya,Watch,Accessories,4,3000,1800,0.05,South,Karnataka,Cash
+ORD0998,2025-06-21,Priya,Keyboard,Electronics,3,1200,600,0.1,North,Uttar Pradesh,UPI
+ORD0999,2025-02-26,Pooja,Watch,Accessories,1,3000,1800,0.1,North,Delhi,Cash
+ORD1000,2025-06-01,Sneha,Notebook,Stationery,2,100,40,0.1,North,Uttar Pradesh,Credit Card
+ORD0001,2025-04-25,Priya,Mobile,Electronics,1,20000,14000,0.1,North,Uttar Pradesh,UPI
+ORD0002,2025-01-16,Amit,Bag,Accessories,1,1500,800,0.15,Central,Madhya Pradesh,Credit Card
+ORD0003,2025-04-12,Karan,Keyboard,Electronics,5,1200,600,0.0,East,West Bengal,Cash
+ORD0004,2025-03-23,Vikas,Keyboard,Electronics,4,1200,600,0.1,Central,Madhya Pradesh,Debit Card
+ORD0005,2025-02-22,Amit,Chair,Furniture,2,5000,3000,0.05,West,Gujarat,Cash
+ORD0006,2025-05-16,Rahul,Mobile,Electronics,3,20000,14000,0.1,East,Bihar,
+ORD0007,2025-10-10,Rohit,Bag,Accessories,1,1500,800,0.15,West,Maharashtra,Net Banking
+ORD0008,2025-01-24,Anjali,Table,Furniture,5,8000,5000,0.05,West,Maharashtra,Debit Card
+ORD0009,2025-05-23,Pooja,Mobile,Electronics,2,20000,14000,0.0,South,Karnataka,Debit Card
+ORD0010,2025-12-10,Rohit,Headphones,Electronics,3,2000,1000,0.1,North,Uttar Pradesh,UPI
